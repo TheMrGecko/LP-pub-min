@@ -3,7 +3,7 @@ tools/
 
 # ─── Source data notes ────────────────────────────────────────────
 # data/leagues_6_gear_master_list.json — fetched at runtime by bisGearDataV2.js
-# data/osrs-db-edited-2026-03-24.json — fetched at runtime by herblore/pvm-hub/world-map
+# data/osrs-db-edited-2026-03-27.json — fetched at runtime by herblore/pvm-hub/world-map
 
 # ─── Backup files ────────────────────────────────────────────────
 *.bak

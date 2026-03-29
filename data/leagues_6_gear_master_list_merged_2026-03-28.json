@@ -92354,6 +92354,7 @@
             "Brassica halo",
             "Briefcase",
             "Bronze arrow (Barbarian Assault)",
+            "Bronze axe",
             "Bronze coffin",
             "Bronze dragon mask",
             "Bronze felling axe",
@@ -92798,6 +92799,7 @@
             "Diamond ring",
             "Diamond speedrun trophy",
             "Digsite pendant",
+            "Dinh's blazing bulwark",
             "Dinh's blazing bulwark (rotten)",
             "Diving apparatus",
             "Diving apparatus (2017 Halloween event)",
@@ -92807,28 +92809,46 @@
             "Dodgy necklace",
             "Dog boots",
             "Double eye patch",
+            "Dragon 2h sword (cr)",
             "Dragon arrow (Last Man Standing)",
             "Dragon axe (or)",
+            "Dragon battleaxe (cr)",
+            "Dragon boots (cr)",
             "Dragon candle dagger",
+            "Dragon chainbody (cr)",
             "Dragon claws (Last Man Standing)",
+            "Dragon claws (cr)",
             "Dragon claws (or)",
+            "Dragon crossbow (cr)",
             "Dragon dagger (Last Man Standing)",
+            "Dragon dagger (cr)",
             "Dragon defender (Last Man Standing)",
             "Dragon felling axe",
             "Dragon fire arrow",
+            "Dragon halberd (cr)",
             "Dragon harpoon (or)",
             "Dragon javelin (Last Man Standing)",
             "Dragon knife (Last Man Standing)",
             "Dragon knife (animation item)",
             "Dragon longsword (bh)",
+            "Dragon longsword (cr)",
             "Dragon mace (bh)",
+            "Dragon mace (cr)",
+            "Dragon med helm (cr)",
             "Dragon necklace",
             "Dragon pickaxe (or)",
             "Dragon pickaxe (or) (Trailblazer)",
             "Dragon pickaxe (upgraded)",
+            "Dragon platelegs (cr)",
+            "Dragon plateskirt (cr)",
             "Dragon scimitar (Last Man Standing)",
+            "Dragon scimitar (cr)",
             "Dragon scimitar (or)",
+            "Dragon spear (cr)",
+            "Dragon sq shield (cr)",
             "Dragon staff of collection",
+            "Dragon sword (cr)",
+            "Dragon warhammer (cr)",
             "Dragon warhammer (or)",
             "Dragonstone amulet",
             "Dragonstone bracelet",
@@ -92930,6 +92950,7 @@
             "Festive games crown",
             "Festive scarf",
             "Fez",
+            "Field arrow",
             "Fighter torso (or)",
             "Fine mesh net",
             "Fire max hood",
@@ -92958,6 +92979,7 @@
             "Fremennik kilt (Last Man Standing)",
             "Frog mask",
             "Frog slippers",
+            "Frozen abyssal whip",
             "Games necklace",
             "Gardening boots",
             "Gas mask",
@@ -92982,9 +93004,27 @@
             "Giant present",
             "Giant stopwatch",
             "Giantsoul amulet",
+            "Gilded 2h sword",
+            "Gilded axe",
+            "Gilded boots",
+            "Gilded chainbody",
+            "Gilded coif",
+            "Gilded d'hide body",
+            "Gilded d'hide chaps",
+            "Gilded d'hide vambraces",
+            "Gilded full helm",
+            "Gilded hasta",
+            "Gilded kiteshield",
+            "Gilded med helm",
             "Gilded pickaxe",
+            "Gilded platebody",
+            "Gilded platelegs",
+            "Gilded plateskirt",
+            "Gilded scimitar",
             "Gilded smile flag",
             "Gilded spade",
+            "Gilded spear",
+            "Gilded sq shield",
             "Gilded staff of collection",
             "Gingerbread shield",
             "Glarial's amulet",
@@ -93129,6 +93169,14 @@
             "Grim reaper gloves",
             "Grim reaper hood",
             "Grim reaper top",
+            "Group ironman bracers",
+            "Group ironman bracers (unranked)",
+            "Group ironman helm",
+            "Group ironman helm (unranked)",
+            "Group ironman platebody",
+            "Group ironman platebody (unranked)",
+            "Group ironman platelegs",
+            "Group ironman platelegs (unranked)",
             "Guild hunter boots",
             "Guild hunter headwear",
             "Guild hunter legs",
@@ -93148,6 +93196,13 @@
             "Ham logo",
             "Hand fan",
             "Hard hat",
+            "Hardcore group ironman bracers",
+            "Hardcore group ironman helm",
+            "Hardcore group ironman platebody",
+            "Hardcore group ironman platelegs",
+            "Hardcore ironman helm",
+            "Hardcore ironman platebody",
+            "Hardcore ironman platelegs",
             "Harmonised nightmare staff (beta)",
             "Hat",
             "Hat eyepatch",
@@ -93205,6 +93260,7 @@
             "Imcando hammer (off-hand)",
             "Imp mask",
             "Incomplete blaster",
+            "Infernal axe",
             "Infernal axe (or)",
             "Infernal axe (or) (Trailblazer Reloaded)",
             "Infernal cape (Last Man Standing)",
@@ -93227,12 +93283,16 @@
             "Inquisitor's plateskirt (beta)",
             "Inverted santa hat",
             "Iron arrow (Barbarian Assault)",
+            "Iron axe",
             "Iron dragon mask",
             "Iron felling axe",
             "Iron fire arrow",
             "Iron pickaxe",
             "Iron pickaxe (nz)",
             "Iron staff of collection",
+            "Ironman helm",
+            "Ironman platebody",
+            "Ironman platelegs",
             "Jack lantern mask",
             "Jad jumper",
             "Jad plush",
@@ -93334,6 +93394,7 @@
             "Mining hood",
             "Mith grapple",
             "Mithril arrow (Barbarian Assault)",
+            "Mithril axe",
             "Mithril dragon mask",
             "Mithril felling axe",
             "Mithril fire arrow",
@@ -93615,6 +93676,7 @@
             "Ruby necklace",
             "Ruby ring",
             "Ruinous powers (item)",
+            "Rune axe",
             "Rune claws",
             "Rune crossbow (Last Man Standing)",
             "Rune crossbow (or)",
@@ -93808,6 +93870,7 @@
             "Statius's warhammer (bh)",
             "Steam battlestaff (or)",
             "Steel arrow (Barbarian Assault)",
+            "Steel axe",
             "Steel coffin",
             "Steel dragon mask",
             "Steel felling axe",
@@ -93885,6 +93948,7 @@
             "Toxic blowpipe (beta)",
             "Toxic staff (deadman)",
             "Trailblazer adamant trophy",
+            "Trailblazer axe",
             "Trailblazer banner",
             "Trailblazer boots (t1)",
             "Trailblazer boots (t2)",
@@ -93977,6 +94041,9 @@
             "Tztok slayer helmet",
             "Tztok slayer helmet (i)",
             "Ugly halloween jumper",
+            "Ultimate ironman helm",
+            "Ultimate ironman platebody",
+            "Ultimate ironman platelegs",
             "Ultor ring (beta)",
             "Unblessed symbol",
             "Undead chicken (item)",
@@ -94186,7 +94253,6 @@
             "Brimstone ring",
             "Broad bolts",
             "Broken bark snelm",
-            "Bronze axe",
             "Bronze crossbow",
             "Bronze hasta",
             "Broodoo shield (combat)",
@@ -94288,22 +94354,13 @@
             "Diamond bolts",
             "Diamond dragon bolts",
             "Diamond dragon bolts (e)",
-            "Dinh's blazing bulwark",
             "Dizana's max cape",
-            "Dragon 2h sword (cr)",
-            "Dragon battleaxe (cr)",
             "Dragon bolts",
-            "Dragon boots (cr)",
             "Dragon boots (g)",
-            "Dragon chainbody (cr)",
             "Dragon chainbody (g)",
-            "Dragon claws (cr)",
             "Dragon crossbow",
-            "Dragon crossbow (cr)",
-            "Dragon dagger (cr)",
             "Dragon defender (t)",
             "Dragon full helm (g)",
-            "Dragon halberd (cr)",
             "Dragon hasta",
             "Dragon hunter crossbow (b)",
             "Dragon hunter crossbow (t)",
@@ -94311,22 +94368,12 @@
             "Dragon javelin",
             "Dragon kiteshield",
             "Dragon kiteshield (g)",
-            "Dragon longsword (cr)",
-            "Dragon mace (cr)",
-            "Dragon med helm (cr)",
             "Dragon platebody",
             "Dragon platebody (g)",
-            "Dragon platelegs (cr)",
             "Dragon platelegs (g)",
-            "Dragon plateskirt (cr)",
             "Dragon plateskirt (g)",
-            "Dragon scimitar (cr)",
-            "Dragon spear (cr)",
             "Dragon sq shield",
-            "Dragon sq shield (cr)",
             "Dragon sq shield (g)",
-            "Dragon sword (cr)",
-            "Dragon warhammer (cr)",
             "Dragonfire shield",
             "Dragonfire ward",
             "Dragonstone boots",
@@ -94377,7 +94424,6 @@
             "Fancy boots",
             "Farming cape",
             "Ferocious gloves",
-            "Field arrow",
             "Fighter hat",
             "Fighter torso",
             "Fighting boots",
@@ -94390,7 +94436,6 @@
             "Fremennik sea boots 2",
             "Fremennik sea boots 3",
             "Fremennik sea boots 4",
-            "Frozen abyssal whip",
             "Gadderhammer",
             "Ghommal's avernic defender 5",
             "Ghommal's avernic defender 6",
@@ -94415,27 +94460,12 @@
             "Granite ring (i)",
             "Green d'hide shield",
             "Green spiky vambraces",
-            "Group ironman bracers",
-            "Group ironman bracers (unranked)",
-            "Group ironman helm",
-            "Group ironman helm (unranked)",
-            "Group ironman platebody",
-            "Group ironman platebody (unranked)",
-            "Group ironman platelegs",
-            "Group ironman platelegs (unranked)",
             "Guam tar",
             "Guardian boots",
             "Guthix cape",
             "Guthix max cape",
             "Guthix mjolnir",
             "Hard leather shield",
-            "Hardcore group ironman bracers",
-            "Hardcore group ironman helm",
-            "Hardcore group ironman platebody",
-            "Hardcore group ironman platelegs",
-            "Hardcore ironman helm",
-            "Hardcore ironman platebody",
-            "Hardcore ironman platelegs",
             "Harmonised nightmare staff",
             "Harralander tar",
             "Harry's cutlass",
@@ -94468,7 +94498,6 @@
             "Imbued saradomin max cape",
             "Imbued zamorak cape",
             "Imbued zamorak max cape",
-            "Infernal axe",
             "Infernal cape",
             "Infernal harpoon",
             "Infernal max cape",
@@ -94478,13 +94507,9 @@
             "Infinity hat",
             "Infinity top",
             "Irit tar",
-            "Iron axe",
             "Iron crossbow",
             "Iron hasta",
             "Iron sickle",
-            "Ironman helm",
-            "Ironman platebody",
-            "Ironman platelegs",
             "Ironwood blowpipe",
             "Jade bolts",
             "Jade bolts (e)",
@@ -94560,7 +94585,6 @@
             "Mind helmet",
             "Mind shield",
             "Mining cape",
-            "Mithril axe",
             "Mithril crossbow",
             "Mithril gloves (wrapped)",
             "Mixed hide boots",
@@ -94745,7 +94769,6 @@
             "Statius's full helm (c)",
             "Statius's platebody (c)",
             "Statius's platelegs (c)",
-            "Steel axe",
             "Steel gauntlets",
             "Steel kiteshield (Arrav)",
             "Steel kiteshield (Asgarnia)",
@@ -94838,7 +94861,6 @@
             "Tortugan shield",
             "Toxic blowpipe",
             "Toxic staff of the dead",
-            "Trailblazer axe",
             "Trailblazer harpoon",
             "Training arrows",
             "Training bow",
@@ -94856,9 +94878,6 @@
             "Twitcher's gloves",
             "Tyrannical ring (i)",
             "Tzhaar-ket-om (t)",
-            "Ultimate ironman helm",
-            "Ultimate ironman platebody",
-            "Ultimate ironman platelegs",
             "Ultor ring",
             "Unholy book",
             "Ursine chainmace",
@@ -95235,660 +95254,6 @@
                         "type": "Drop",
                         "level": null,
                         "difficulty": "Low",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Gilded 2h sword",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(hard)_0",
-                        "name": "Reward casket (hard)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "Medium",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    },
-                    {
-                        "sourceId": "Drop_Reward_casket_(elite)_0",
-                        "name": "Reward casket (elite)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "High",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    },
-                    {
-                        "sourceId": "Drop_Reward_casket_(master)_0",
-                        "name": "Reward casket (master)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "High",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Gilded axe",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(elite)_0",
-                        "name": "Reward casket (elite)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "High",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    },
-                    {
-                        "sourceId": "Drop_Reward_casket_(master)_0",
-                        "name": "Reward casket (master)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "High",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Gilded boots",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(elite)_0",
-                        "name": "Reward casket (elite)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "High",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    },
-                    {
-                        "sourceId": "Drop_Reward_casket_(master)_0",
-                        "name": "Reward casket (master)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "High",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Gilded chainbody",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(hard)_0",
-                        "name": "Reward casket (hard)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "Medium",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    },
-                    {
-                        "sourceId": "Drop_Reward_casket_(elite)_0",
-                        "name": "Reward casket (elite)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "High",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    },
-                    {
-                        "sourceId": "Drop_Reward_casket_(master)_0",
-                        "name": "Reward casket (master)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "High",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Gilded coif",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(elite)_0",
-                        "name": "Reward casket (elite)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "High",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    },
-                    {
-                        "sourceId": "Drop_Reward_casket_(master)_0",
-                        "name": "Reward casket (master)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "High",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Gilded d'hide body",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(elite)_0",
-                        "name": "Reward casket (elite)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "High",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    },
-                    {
-                        "sourceId": "Drop_Reward_casket_(master)_0",
-                        "name": "Reward casket (master)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "High",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Gilded d'hide chaps",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(elite)_0",
-                        "name": "Reward casket (elite)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "High",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    },
-                    {
-                        "sourceId": "Drop_Reward_casket_(master)_0",
-                        "name": "Reward casket (master)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "High",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Gilded d'hide vambraces",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(elite)_0",
-                        "name": "Reward casket (elite)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "High",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    },
-                    {
-                        "sourceId": "Drop_Reward_casket_(master)_0",
-                        "name": "Reward casket (master)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "High",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Gilded full helm",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(hard)_0",
-                        "name": "Reward casket (hard)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "Medium",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    },
-                    {
-                        "sourceId": "Drop_Reward_casket_(elite)_0",
-                        "name": "Reward casket (elite)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "High",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    },
-                    {
-                        "sourceId": "Drop_Reward_casket_(master)_0",
-                        "name": "Reward casket (master)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "High",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Gilded hasta",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(hard)_0",
-                        "name": "Reward casket (hard)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "Medium",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    },
-                    {
-                        "sourceId": "Drop_Reward_casket_(elite)_0",
-                        "name": "Reward casket (elite)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "High",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    },
-                    {
-                        "sourceId": "Drop_Reward_casket_(master)_0",
-                        "name": "Reward casket (master)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "High",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Gilded kiteshield",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(hard)_0",
-                        "name": "Reward casket (hard)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "Medium",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    },
-                    {
-                        "sourceId": "Drop_Reward_casket_(elite)_0",
-                        "name": "Reward casket (elite)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "High",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    },
-                    {
-                        "sourceId": "Drop_Reward_casket_(master)_0",
-                        "name": "Reward casket (master)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "High",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Gilded med helm",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(hard)_0",
-                        "name": "Reward casket (hard)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "Medium",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    },
-                    {
-                        "sourceId": "Drop_Reward_casket_(elite)_0",
-                        "name": "Reward casket (elite)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "High",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    },
-                    {
-                        "sourceId": "Drop_Reward_casket_(master)_0",
-                        "name": "Reward casket (master)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "High",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Gilded platebody",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(hard)_0",
-                        "name": "Reward casket (hard)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "Medium",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    },
-                    {
-                        "sourceId": "Drop_Reward_casket_(elite)_0",
-                        "name": "Reward casket (elite)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "High",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    },
-                    {
-                        "sourceId": "Drop_Reward_casket_(master)_0",
-                        "name": "Reward casket (master)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "High",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Gilded platelegs",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(hard)_0",
-                        "name": "Reward casket (hard)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "Medium",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    },
-                    {
-                        "sourceId": "Drop_Reward_casket_(elite)_0",
-                        "name": "Reward casket (elite)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "High",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    },
-                    {
-                        "sourceId": "Drop_Reward_casket_(master)_0",
-                        "name": "Reward casket (master)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "High",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Gilded plateskirt",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(hard)_0",
-                        "name": "Reward casket (hard)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "Medium",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    },
-                    {
-                        "sourceId": "Drop_Reward_casket_(elite)_0",
-                        "name": "Reward casket (elite)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "High",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    },
-                    {
-                        "sourceId": "Drop_Reward_casket_(master)_0",
-                        "name": "Reward casket (master)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "High",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Gilded scimitar",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(elite)_0",
-                        "name": "Reward casket (elite)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "High",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    },
-                    {
-                        "sourceId": "Drop_Reward_casket_(master)_0",
-                        "name": "Reward casket (master)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "High",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Gilded spear",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(hard)_0",
-                        "name": "Reward casket (hard)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "Medium",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    },
-                    {
-                        "sourceId": "Drop_Reward_casket_(elite)_0",
-                        "name": "Reward casket (elite)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "High",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    },
-                    {
-                        "sourceId": "Drop_Reward_casket_(master)_0",
-                        "name": "Reward casket (master)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "High",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Gilded sq shield",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(hard)_0",
-                        "name": "Reward casket (hard)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "Medium",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    },
-                    {
-                        "sourceId": "Drop_Reward_casket_(elite)_0",
-                        "name": "Reward casket (elite)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "High",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    },
-                    {
-                        "sourceId": "Drop_Reward_casket_(master)_0",
-                        "name": "Reward casket (master)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "High",
                         "rarity": null,
                         "regions": [],
                         "requiredRelics": [
@@ -96859,23 +96224,6 @@
             },
             {
                 "name": "Red d'hide chaps (t)",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(hard)_0",
-                        "name": "Reward casket (hard)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "Medium",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Rune axe",
                 "sources": [
                     {
                         "sourceId": "Drop_Reward_casket_(hard)_0",
@@ -98331,12 +97679,12 @@
                 ]
             }
         ],
-        "savedAt": "2026-03-28T16:46:57.575Z",
+        "savedAt": "2026-03-29T13:24:50.416Z",
         "stats": {
-            "matched": 912,
-            "accepted": 76,
-            "rejected": 2163,
-            "pending": 933,
+            "matched": 988,
+            "accepted": 0,
+            "rejected": 2230,
+            "pending": 866,
             "purged": 0
         }
     }

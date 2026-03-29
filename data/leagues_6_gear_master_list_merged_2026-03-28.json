@@ -25546,6 +25546,251 @@
             }
         },
         {
+            "id": "Bloodbark_body",
+            "name": "Bloodbark body",
+            "slot": "body",
+            "levelTag": "",
+            "styles": [
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_morytania_High_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "High",
+                    "rarity": null,
+                    "regions": [
+                        "morytania"
+                    ],
+                    "regionsAll": true
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 21,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 1
+                },
+                "defence": {
+                    "stab": 53,
+                    "slash": 39,
+                    "crush": 64,
+                    "magic": 24,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Bloodbark_boots",
+            "name": "Bloodbark boots",
+            "slot": "feet",
+            "levelTag": "",
+            "styles": [
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_morytania_Medium_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "High",
+                    "rarity": null,
+                    "regions": [
+                        "morytania"
+                    ],
+                    "regionsAll": true
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 4,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 5,
+                    "slash": 4,
+                    "crush": 6,
+                    "magic": 5,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Bloodbark_gauntlets",
+            "name": "Bloodbark gauntlets",
+            "slot": "hands",
+            "levelTag": "",
+            "styles": [
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_morytania_Medium_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "High",
+                    "rarity": null,
+                    "regions": [
+                        "morytania"
+                    ],
+                    "regionsAll": true
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 4,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 5,
+                    "slash": 4,
+                    "crush": 6,
+                    "magic": 5,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Bloodbark_helm",
+            "name": "Bloodbark helm",
+            "slot": "head",
+            "levelTag": "",
+            "styles": [
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_morytania_Medium_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "High",
+                    "rarity": null,
+                    "regions": [
+                        "morytania"
+                    ],
+                    "regionsAll": true
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 5,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 1
+                },
+                "defence": {
+                    "stab": 16,
+                    "slash": 14,
+                    "crush": 17,
+                    "magic": 6,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Bloodbark_legs",
+            "name": "Bloodbark legs",
+            "slot": "legs",
+            "levelTag": "",
+            "styles": [
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_morytania_Medium_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "High",
+                    "rarity": null,
+                    "regions": [
+                        "morytania"
+                    ],
+                    "regionsAll": true
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 16,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 1
+                },
+                "defence": {
+                    "stab": 33,
+                    "slash": 31,
+                    "crush": 38,
+                    "magic": 17,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
             "id": "Blue_boots",
             "name": "Blue boots",
             "slot": "feet",
@@ -25728,6 +25973,106 @@
             }
         },
         {
+            "id": "Blue_d'hide_body_(g)",
+            "name": "Blue d'hide body (g)",
+            "slot": "body",
+            "levelTag": "",
+            "styles": [
+                "Range",
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Drop_Reward_casket_(hard)_0",
+                    "name": "Reward casket (hard)",
+                    "type": "Drop",
+                    "level": null,
+                    "difficulty": "Medium",
+                    "rarity": null,
+                    "regions": [],
+                    "requiredRelics": [
+                        "t4c2"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": -15,
+                    "range": 20
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 23,
+                    "slash": 30,
+                    "crush": 30,
+                    "magic": 28,
+                    "range": 40
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Blue_d'hide_body_(t)",
+            "name": "Blue d'hide body (t)",
+            "slot": "body",
+            "levelTag": "",
+            "styles": [
+                "Range",
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Drop_Reward_casket_(hard)_0",
+                    "name": "Reward casket (hard)",
+                    "type": "Drop",
+                    "level": null,
+                    "difficulty": "Medium",
+                    "rarity": null,
+                    "regions": [],
+                    "requiredRelics": [
+                        "t4c2"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": -15,
+                    "range": 20
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 23,
+                    "slash": 30,
+                    "crush": 30,
+                    "magic": 28,
+                    "range": 40
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
             "id": "Blue_d'hide_chaps",
             "name": "Blue d'hide chaps",
             "slot": "legs",
@@ -25765,6 +26110,196 @@
                     "crush": 20,
                     "magic": 14,
                     "range": 20
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Blue_d'hide_chaps_(g)",
+            "name": "Blue d'hide chaps (g)",
+            "slot": "legs",
+            "levelTag": "",
+            "styles": [
+                "Range",
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Drop_Reward_casket_(hard)_0",
+                    "name": "Reward casket (hard)",
+                    "type": "Drop",
+                    "level": null,
+                    "difficulty": "Medium",
+                    "rarity": null,
+                    "regions": [],
+                    "requiredRelics": [
+                        "t4c2"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": -10,
+                    "range": 11
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 13,
+                    "slash": 16,
+                    "crush": 20,
+                    "magic": 14,
+                    "range": 20
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Blue_d'hide_chaps_(t)",
+            "name": "Blue d'hide chaps (t)",
+            "slot": "legs",
+            "levelTag": "",
+            "styles": [
+                "Range",
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Drop_Reward_casket_(hard)_0",
+                    "name": "Reward casket (hard)",
+                    "type": "Drop",
+                    "level": null,
+                    "difficulty": "Medium",
+                    "rarity": null,
+                    "regions": [],
+                    "requiredRelics": [
+                        "t4c2"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": -10,
+                    "range": 11
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 13,
+                    "slash": 16,
+                    "crush": 20,
+                    "magic": 14,
+                    "range": 20
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Blue_d'hide_shield",
+            "name": "Blue d'hide shield",
+            "slot": "shield",
+            "levelTag": "",
+            "styles": [
+                "Melee",
+                "Range",
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_fremennik_varlamore_Medium_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "Medium",
+                    "rarity": null,
+                    "regions": [
+                        "fremennik",
+                        "varlamore"
+                    ],
+                    "regionsAll": true
+                },
+                {
+                    "sourceId": "Region_desert_varlamore_Medium_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "Medium",
+                    "rarity": null,
+                    "regions": [
+                        "desert",
+                        "varlamore"
+                    ],
+                    "regionsAll": true
+                },
+                {
+                    "sourceId": "Region_morytania_varlamore_Medium_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "Medium",
+                    "rarity": null,
+                    "regions": [
+                        "morytania",
+                        "varlamore"
+                    ],
+                    "regionsAll": true
+                },
+                {
+                    "sourceId": "Region_varlamore_Medium_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "Medium",
+                    "rarity": null,
+                    "regions": [
+                        "varlamore"
+                    ],
+                    "regionsAll": true
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": -15,
+                    "slash": -15,
+                    "crush": -11,
+                    "magic": -10,
+                    "range": 5
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 16,
+                    "slash": 14,
+                    "crush": 12,
+                    "magic": 12,
+                    "range": 12
                 },
                 "prayer": 0,
                 "weapon": {
@@ -26187,6 +26722,58 @@
             }
         },
         {
+            "id": "Blue_spiky_vambraces",
+            "name": "Blue spiky vambraces",
+            "slot": "hands",
+            "levelTag": "",
+            "styles": [
+                "Melee",
+                "Range",
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_kandarin_varlamore_Medium_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "Low",
+                    "rarity": null,
+                    "regions": [
+                        "kandarin",
+                        "varlamore"
+                    ],
+                    "regionsAll": true
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": -10,
+                    "range": 9
+                },
+                "strength": {
+                    "melee": 2,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 4,
+                    "slash": 3,
+                    "crush": 5,
+                    "magic": 4,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
             "id": "Blue_wizard_hat",
             "name": "Blue wizard hat",
             "slot": "head",
@@ -26311,6 +26898,104 @@
             }
         },
         {
+            "id": "Blue_wizard_hat_(g)",
+            "name": "Blue wizard hat (g)",
+            "slot": "head",
+            "levelTag": "",
+            "styles": [
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Drop_Reward_casket_(easy)_0",
+                    "name": "Reward casket (easy)",
+                    "type": "Drop",
+                    "level": null,
+                    "difficulty": "Low",
+                    "rarity": null,
+                    "regions": [],
+                    "requiredRelics": [
+                        "t4c2"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 2,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 2,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Blue_wizard_hat_(t)",
+            "name": "Blue wizard hat (t)",
+            "slot": "head",
+            "levelTag": "",
+            "styles": [
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Drop_Reward_casket_(easy)_0",
+                    "name": "Reward casket (easy)",
+                    "type": "Drop",
+                    "level": null,
+                    "difficulty": "Low",
+                    "rarity": null,
+                    "regions": [],
+                    "requiredRelics": [
+                        "t4c2"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 2,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 2,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
             "id": "Blue_wizard_robe",
             "name": "Blue wizard robe",
             "slot": "body",
@@ -26353,6 +27038,104 @@
                     "rarity": "2 × 1/50",
                     "regions": [
                         "asgarnia"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 3,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 3,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Blue_wizard_robe_(g)",
+            "name": "Blue wizard robe (g)",
+            "slot": "body",
+            "levelTag": "",
+            "styles": [
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Drop_Reward_casket_(easy)_0",
+                    "name": "Reward casket (easy)",
+                    "type": "Drop",
+                    "level": null,
+                    "difficulty": "Low",
+                    "rarity": null,
+                    "regions": [],
+                    "requiredRelics": [
+                        "t4c2"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 3,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 3,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Blue_wizard_robe_(t)",
+            "name": "Blue wizard robe (t)",
+            "slot": "body",
+            "levelTag": "",
+            "styles": [
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Drop_Reward_casket_(easy)_0",
+                    "name": "Reward casket (easy)",
+                    "type": "Drop",
+                    "level": null,
+                    "difficulty": "Low",
+                    "rarity": null,
+                    "regions": [],
+                    "requiredRelics": [
+                        "t4c2"
                     ]
                 }
             ],
@@ -26642,6 +27425,102 @@
             }
         },
         {
+            "id": "Bone_mace",
+            "name": "Bone mace",
+            "slot": "weapon",
+            "levelTag": "",
+            "styles": [
+                "Melee"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Drop_Scurrius MVP_200",
+                    "name": "Scurrius MVP",
+                    "type": "Drop",
+                    "level": 200,
+                    "difficulty": "Low",
+                    "rarity": "6/100",
+                    "regions": [
+                        "misthalin"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 40,
+                    "slash": -2,
+                    "crush": 60,
+                    "magic": 0,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 55,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 4,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Bone_shortbow",
+            "name": "Bone shortbow",
+            "slot": "2h",
+            "levelTag": "",
+            "styles": [
+                "Range"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Drop_Scurrius MVP_200",
+                    "name": "Scurrius MVP",
+                    "type": "Drop",
+                    "level": 200,
+                    "difficulty": "Low",
+                    "rarity": "6/100",
+                    "regions": [
+                        "misthalin"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 69
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 4,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
             "id": "Bone_spear",
             "name": "Bone spear",
             "slot": "weapon",
@@ -26712,6 +27591,399 @@
             }
         },
         {
+            "id": "Bone_staff",
+            "name": "Bone staff",
+            "slot": "weapon",
+            "levelTag": "",
+            "styles": [
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Drop_Scurrius MVP_200",
+                    "name": "Scurrius MVP",
+                    "type": "Drop",
+                    "level": 200,
+                    "difficulty": "Low",
+                    "rarity": "6/100",
+                    "regions": [
+                        "misthalin"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 14,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 4,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Bonecrusher_necklace",
+            "name": "Bonecrusher necklace",
+            "slot": "neck",
+            "levelTag": "",
+            "styles": [
+                "Melee",
+                "Range",
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_fremennik_kourend_Medium_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "Medium",
+                    "rarity": null,
+                    "regions": [
+                        "fremennik",
+                        "kourend"
+                    ],
+                    "regionsAll": true
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 10,
+                    "slash": 10,
+                    "crush": 10,
+                    "magic": 10,
+                    "range": 10
+                },
+                "strength": {
+                    "melee": 2,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 2,
+                    "slash": 2,
+                    "crush": 2,
+                    "magic": 2,
+                    "range": 2
+                },
+                "prayer": 12,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Book_of_balance",
+            "name": "Book of balance",
+            "slot": "shield",
+            "levelTag": "",
+            "styles": [
+                "Melee",
+                "Range",
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Shop_Lighthouse_Shop_0",
+                    "name": "Lighthouse Shop",
+                    "type": "Shop",
+                    "level": null,
+                    "difficulty": "low",
+                    "rarity": "Always",
+                    "regions": [
+                        "fremennik"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 4,
+                    "slash": 4,
+                    "crush": 4,
+                    "magic": 4,
+                    "range": 4
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 4,
+                    "slash": 4,
+                    "crush": 4,
+                    "magic": 4,
+                    "range": 4
+                },
+                "prayer": 5,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Book_of_darkness",
+            "name": "Book of darkness",
+            "slot": "shield",
+            "levelTag": "",
+            "styles": [
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Shop_Lighthouse_Shop_0",
+                    "name": "Lighthouse Shop",
+                    "type": "Shop",
+                    "level": null,
+                    "difficulty": "low",
+                    "rarity": "Always",
+                    "regions": [
+                        "fremennik"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 10,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 5,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Book_of_law",
+            "name": "Book of law",
+            "slot": "shield",
+            "levelTag": "",
+            "styles": [
+                "Range"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Shop_Lighthouse_Shop_0",
+                    "name": "Lighthouse Shop",
+                    "type": "Shop",
+                    "level": null,
+                    "difficulty": "low",
+                    "rarity": "Always",
+                    "regions": [
+                        "fremennik"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 10
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 5,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Book_of_the_dead",
+            "name": "Book of the dead",
+            "slot": "shield",
+            "levelTag": "",
+            "styles": [
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_kourend_Medium_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "Low",
+                    "rarity": null,
+                    "regions": [
+                        "kourend"
+                    ],
+                    "regionsAll": true
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 6,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 3,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Book_of_war",
+            "name": "Book of war",
+            "slot": "shield",
+            "levelTag": "",
+            "styles": [
+                "Melee"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Shop_Lighthouse_Shop_0",
+                    "name": "Lighthouse Shop",
+                    "type": "Shop",
+                    "level": null,
+                    "difficulty": "low",
+                    "rarity": "Always",
+                    "regions": [
+                        "fremennik"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 2,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 5,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Boots_of_brimstone",
+            "name": "Boots of brimstone",
+            "slot": "feet",
+            "levelTag": "",
+            "styles": [
+                "Melee",
+                "Range",
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Drop_Drake_192",
+                    "name": "Drake",
+                    "type": "Drop",
+                    "level": 192,
+                    "difficulty": "Medium",
+                    "rarity": "1/93",
+                    "regions": [
+                        "kourend"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 3,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 3,
+                    "range": 5
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 10,
+                    "slash": 10,
+                    "crush": 10,
+                    "magic": 5,
+                    "range": 5
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
             "id": "Boots_of_darkness",
             "name": "Boots of darkness",
             "slot": "feet",
@@ -26751,6 +28023,55 @@
                     "slash": 0,
                     "crush": 0,
                     "magic": 3,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Boots_of_lightness",
+            "name": "Boots of lightness",
+            "slot": "feet",
+            "levelTag": "",
+            "styles": [
+                "Melee"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_kandarin_Medium_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "Low",
+                    "rarity": null,
+                    "regions": [
+                        "kandarin"
+                    ],
+                    "regionsAll": true
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 1,
+                    "slash": 1,
+                    "crush": 1,
+                    "magic": 0,
                     "range": 0
                 },
                 "prayer": 0,
@@ -26868,6 +28189,390 @@
                 "prayer": 0,
                 "weapon": {
                     "tickSpeed": 4,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Bow_of_faerdhinen_(c)",
+            "name": "Bow of faerdhinen (c)",
+            "slot": "2h",
+            "levelTag": "",
+            "styles": [
+                "Range"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Crafted_Corrupted_Gauntlet_0",
+                    "name": "Corrupted Gauntlet",
+                    "type": "Crafted",
+                    "level": null,
+                    "difficulty": "High",
+                    "rarity": "1/400",
+                    "regions": [
+                        "tirannwn"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 128
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 106,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 5,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Bow_of_faerdhinen_(c)_(Amlodd)",
+            "name": "Bow of faerdhinen (c) (Amlodd)",
+            "slot": "2h",
+            "levelTag": "",
+            "styles": [
+                "Range"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Crafted_Corrupted_Gauntlet_0",
+                    "name": "Corrupted Gauntlet",
+                    "type": "Crafted",
+                    "level": null,
+                    "difficulty": "High",
+                    "rarity": "1/400",
+                    "regions": [
+                        "tirannwn"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 128
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 106,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 5,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Bow_of_faerdhinen_(c)_(Cadarn)",
+            "name": "Bow of faerdhinen (c) (Cadarn)",
+            "slot": "2h",
+            "levelTag": "",
+            "styles": [
+                "Range"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Crafted_Corrupted_Gauntlet_0",
+                    "name": "Corrupted Gauntlet",
+                    "type": "Crafted",
+                    "level": null,
+                    "difficulty": "High",
+                    "rarity": "1/400",
+                    "regions": [
+                        "tirannwn"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 128
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 106,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 5,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Bow_of_faerdhinen_(c)_(Crwys)",
+            "name": "Bow of faerdhinen (c) (Crwys)",
+            "slot": "2h",
+            "levelTag": "",
+            "styles": [
+                "Range"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Crafted_Corrupted_Gauntlet_0",
+                    "name": "Corrupted Gauntlet",
+                    "type": "Crafted",
+                    "level": null,
+                    "difficulty": "High",
+                    "rarity": "1/400",
+                    "regions": [
+                        "tirannwn"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 128
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 106,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 5,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Bow_of_faerdhinen_(c)_(Iorwerth)",
+            "name": "Bow of faerdhinen (c) (Iorwerth)",
+            "slot": "2h",
+            "levelTag": "",
+            "styles": [
+                "Range"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Crafted_Corrupted_Gauntlet_0",
+                    "name": "Corrupted Gauntlet",
+                    "type": "Crafted",
+                    "level": null,
+                    "difficulty": "High",
+                    "rarity": "1/400",
+                    "regions": [
+                        "tirannwn"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 128
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 106,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 5,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Bow_of_faerdhinen_(c)_(Ithell)",
+            "name": "Bow of faerdhinen (c) (Ithell)",
+            "slot": "2h",
+            "levelTag": "",
+            "styles": [
+                "Range"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Crafted_Corrupted_Gauntlet_0",
+                    "name": "Corrupted Gauntlet",
+                    "type": "Crafted",
+                    "level": null,
+                    "difficulty": "High",
+                    "rarity": "1/400",
+                    "regions": [
+                        "tirannwn"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 128
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 106,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 5,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Bow_of_faerdhinen_(c)_(Meilyr)",
+            "name": "Bow of faerdhinen (c) (Meilyr)",
+            "slot": "2h",
+            "levelTag": "",
+            "styles": [
+                "Range"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Crafted_Corrupted_Gauntlet_0",
+                    "name": "Corrupted Gauntlet",
+                    "type": "Crafted",
+                    "level": null,
+                    "difficulty": "High",
+                    "rarity": "1/400",
+                    "regions": [
+                        "tirannwn"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 128
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 106,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 5,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Bow_of_faerdhinen_(c)_(Trahaearn)",
+            "name": "Bow of faerdhinen (c) (Trahaearn)",
+            "slot": "2h",
+            "levelTag": "",
+            "styles": [
+                "Range"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Crafted_Corrupted_Gauntlet_0",
+                    "name": "Corrupted Gauntlet",
+                    "type": "Crafted",
+                    "level": null,
+                    "difficulty": "High",
+                    "rarity": "1/400",
+                    "regions": [
+                        "tirannwn"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 128
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 106,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 5,
                     "specialAttack": false
                 }
             }
@@ -27044,6 +28749,67 @@
             }
         },
         {
+            "id": "Brimstone_ring",
+            "name": "Brimstone ring",
+            "slot": "ring",
+            "levelTag": "",
+            "styles": [
+                "Melee",
+                "Range",
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Drop_Hydra_194",
+                    "name": "Hydra",
+                    "type": "Drop",
+                    "level": 194,
+                    "difficulty": "Medium",
+                    "rarity": "2/128",
+                    "regions": [
+                        "kourend"
+                    ]
+                },
+                {
+                    "sourceId": "Drop_Alchemical Hydra_426",
+                    "name": "Alchemical Hydra",
+                    "type": "Drop",
+                    "level": 426,
+                    "difficulty": "High",
+                    "rarity": "2 × 5/101",
+                    "regions": [
+                        "kourend"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 4,
+                    "slash": 4,
+                    "crush": 4,
+                    "magic": 6,
+                    "range": 4
+                },
+                "strength": {
+                    "melee": 4,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 4,
+                    "slash": 4,
+                    "crush": 4,
+                    "magic": 6,
+                    "range": 4
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
             "id": "Brine_sabre",
             "name": "Brine sabre",
             "slot": "weapon",
@@ -27126,6 +28892,64 @@
                 "strength": {
                     "melee": 0,
                     "range": 28,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Broad_bolts",
+            "name": "Broad bolts",
+            "slot": "ammo",
+            "levelTag": "",
+            "styles": [
+                "Range"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_asgarnia_desert_fremennik_kandarin_karamja_kourend_misthalin_morytania_tirannwn_varlamore_wilderness_Medium_OR",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "Medium",
+                    "rarity": null,
+                    "regions": [
+                        "asgarnia",
+                        "desert",
+                        "fremennik",
+                        "kandarin",
+                        "karamja",
+                        "kourend",
+                        "misthalin",
+                        "morytania",
+                        "tirannwn",
+                        "varlamore",
+                        "wilderness"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 100,
                     "magic": 0
                 },
                 "defence": {
@@ -28753,6 +30577,106 @@
             }
         },
         {
+            "id": "Bronze_full_helm_(g)",
+            "name": "Bronze full helm (g)",
+            "slot": "head",
+            "levelTag": "",
+            "styles": [
+                "Range",
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Drop_Reward_casket_(easy)_0",
+                    "name": "Reward casket (easy)",
+                    "type": "Drop",
+                    "level": null,
+                    "difficulty": "Low",
+                    "rarity": null,
+                    "regions": [],
+                    "requiredRelics": [
+                        "t4c2"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": -6,
+                    "range": -3
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 4,
+                    "slash": 5,
+                    "crush": 3,
+                    "magic": -1,
+                    "range": 4
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Bronze_full_helm_(t)",
+            "name": "Bronze full helm (t)",
+            "slot": "head",
+            "levelTag": "",
+            "styles": [
+                "Range",
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Drop_Reward_casket_(easy)_0",
+                    "name": "Reward casket (easy)",
+                    "type": "Drop",
+                    "level": null,
+                    "difficulty": "Low",
+                    "rarity": null,
+                    "regions": [],
+                    "requiredRelics": [
+                        "t4c2"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": -6,
+                    "range": -3
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 4,
+                    "slash": 5,
+                    "crush": 3,
+                    "magic": -1,
+                    "range": 4
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
             "id": "Bronze_gloves",
             "name": "Bronze gloves",
             "slot": "hands",
@@ -29025,6 +30949,106 @@
                     "crush": 0,
                     "magic": -8,
                     "range": -3
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 5,
+                    "slash": 7,
+                    "crush": 6,
+                    "magic": -1,
+                    "range": 6
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Bronze_kiteshield_(g)",
+            "name": "Bronze kiteshield (g)",
+            "slot": "shield",
+            "levelTag": "",
+            "styles": [
+                "Range",
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Drop_Reward_casket_(easy)_0",
+                    "name": "Reward casket (easy)",
+                    "type": "Drop",
+                    "level": null,
+                    "difficulty": "Low",
+                    "rarity": null,
+                    "regions": [],
+                    "requiredRelics": [
+                        "t4c2"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": -8,
+                    "range": -2
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 5,
+                    "slash": 7,
+                    "crush": 6,
+                    "magic": -1,
+                    "range": 6
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Bronze_kiteshield_(t)",
+            "name": "Bronze kiteshield (t)",
+            "slot": "shield",
+            "levelTag": "",
+            "styles": [
+                "Range",
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Drop_Reward_casket_(easy)_0",
+                    "name": "Reward casket (easy)",
+                    "type": "Drop",
+                    "level": null,
+                    "difficulty": "Low",
+                    "rarity": null,
+                    "regions": [],
+                    "requiredRelics": [
+                        "t4c2"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": -8,
+                    "range": -2
                 },
                 "strength": {
                     "melee": 0,
@@ -29620,6 +31644,106 @@
             }
         },
         {
+            "id": "Bronze_platebody_(g)",
+            "name": "Bronze platebody (g)",
+            "slot": "body",
+            "levelTag": "",
+            "styles": [
+                "Range",
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Drop_Reward_casket_(easy)_0",
+                    "name": "Reward casket (easy)",
+                    "type": "Drop",
+                    "level": null,
+                    "difficulty": "Low",
+                    "rarity": null,
+                    "regions": [],
+                    "requiredRelics": [
+                        "t4c2"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": -30,
+                    "range": -15
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 15,
+                    "slash": 14,
+                    "crush": 9,
+                    "magic": -6,
+                    "range": 14
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Bronze_platebody_(t)",
+            "name": "Bronze platebody (t)",
+            "slot": "body",
+            "levelTag": "",
+            "styles": [
+                "Range",
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Drop_Reward_casket_(easy)_0",
+                    "name": "Reward casket (easy)",
+                    "type": "Drop",
+                    "level": null,
+                    "difficulty": "Low",
+                    "rarity": null,
+                    "regions": [],
+                    "requiredRelics": [
+                        "t4c2"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": -30,
+                    "range": -15
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 15,
+                    "slash": 14,
+                    "crush": 9,
+                    "magic": -6,
+                    "range": 14
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
             "id": "Bronze_platelegs",
             "name": "Bronze platelegs",
             "slot": "legs",
@@ -29671,6 +31795,106 @@
                     "rarity": "Always",
                     "regions": [
                         "desert"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": -21,
+                    "range": -11
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 8,
+                    "slash": 7,
+                    "crush": 6,
+                    "magic": -4,
+                    "range": 7
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Bronze_platelegs_(g)",
+            "name": "Bronze platelegs (g)",
+            "slot": "legs",
+            "levelTag": "",
+            "styles": [
+                "Range",
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Drop_Reward_casket_(easy)_0",
+                    "name": "Reward casket (easy)",
+                    "type": "Drop",
+                    "level": null,
+                    "difficulty": "Low",
+                    "rarity": null,
+                    "regions": [],
+                    "requiredRelics": [
+                        "t4c2"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": -21,
+                    "range": -11
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 8,
+                    "slash": 7,
+                    "crush": 6,
+                    "magic": -4,
+                    "range": 7
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Bronze_platelegs_(t)",
+            "name": "Bronze platelegs (t)",
+            "slot": "legs",
+            "levelTag": "",
+            "styles": [
+                "Range",
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Drop_Reward_casket_(easy)_0",
+                    "name": "Reward casket (easy)",
+                    "type": "Drop",
+                    "level": null,
+                    "difficulty": "Low",
+                    "rarity": null,
+                    "regions": [],
+                    "requiredRelics": [
+                        "t4c2"
                     ]
                 }
             ],
@@ -29774,6 +31998,106 @@
                     "rarity": "Always",
                     "regions": [
                         "desert"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": -21,
+                    "range": -11
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 8,
+                    "slash": 7,
+                    "crush": 6,
+                    "magic": -4,
+                    "range": 7
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Bronze_plateskirt_(g)",
+            "name": "Bronze plateskirt (g)",
+            "slot": "legs",
+            "levelTag": "",
+            "styles": [
+                "Range",
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Drop_Reward_casket_(easy)_0",
+                    "name": "Reward casket (easy)",
+                    "type": "Drop",
+                    "level": null,
+                    "difficulty": "Low",
+                    "rarity": null,
+                    "regions": [],
+                    "requiredRelics": [
+                        "t4c2"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": -21,
+                    "range": -11
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 8,
+                    "slash": 7,
+                    "crush": 6,
+                    "magic": -4,
+                    "range": 7
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Bronze_plateskirt_(t)",
+            "name": "Bronze plateskirt (t)",
+            "slot": "legs",
+            "levelTag": "",
+            "styles": [
+                "Range",
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Drop_Reward_casket_(easy)_0",
+                    "name": "Reward casket (easy)",
+                    "type": "Drop",
+                    "level": null,
+                    "difficulty": "Low",
+                    "rarity": null,
+                    "regions": [],
+                    "requiredRelics": [
+                        "t4c2"
                     ]
                 }
             ],
@@ -30379,6 +32703,254 @@
             }
         },
         {
+            "id": "Broodoo_shield_(combat)",
+            "name": "Broodoo shield (combat)",
+            "slot": "shield",
+            "levelTag": "",
+            "styles": [
+                "Range",
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_karamja_Medium_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "Low",
+                    "rarity": null,
+                    "regions": [
+                        "karamja"
+                    ],
+                    "regionsAll": true
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 3,
+                    "range": -7
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 10,
+                    "slash": 10,
+                    "crush": 15,
+                    "magic": 5,
+                    "range": 0
+                },
+                "prayer": 5,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Broodoo_shield_(disease)",
+            "name": "Broodoo shield (disease)",
+            "slot": "shield",
+            "levelTag": "",
+            "styles": [
+                "Range",
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_karamja_Low_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "Low",
+                    "rarity": null,
+                    "regions": [
+                        "karamja"
+                    ],
+                    "regionsAll": true
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 3,
+                    "range": -7
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 10,
+                    "slash": 10,
+                    "crush": 15,
+                    "magic": 5,
+                    "range": 0
+                },
+                "prayer": 5,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Broodoo_shield_(poison)",
+            "name": "Broodoo shield (poison)",
+            "slot": "shield",
+            "levelTag": "",
+            "styles": [
+                "Range",
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_karamja_Low_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "Low",
+                    "rarity": null,
+                    "regions": [
+                        "karamja"
+                    ],
+                    "regionsAll": true
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 3,
+                    "range": -7
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 10,
+                    "slash": 10,
+                    "crush": 15,
+                    "magic": 5,
+                    "range": 0
+                },
+                "prayer": 5,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Bryophyta's_staff",
+            "name": "Bryophyta's staff",
+            "slot": "weapon",
+            "levelTag": "",
+            "styles": [
+                "Melee",
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_misthalin_Low_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "Low",
+                    "rarity": null,
+                    "regions": [
+                        "misthalin"
+                    ],
+                    "regionsAll": true
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 10,
+                    "slash": -1,
+                    "crush": 40,
+                    "magic": 15,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 50,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 2,
+                    "slash": 3,
+                    "crush": 1,
+                    "magic": 15,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 5,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Burning_claws",
+            "name": "Burning claws",
+            "slot": "2h",
+            "levelTag": "",
+            "styles": [
+                "Melee"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Drop_Tormented Demon_450",
+                    "name": "Tormented Demon",
+                    "type": "Drop",
+                    "level": 450,
+                    "difficulty": "Medium",
+                    "rarity": "3/51",
+                    "regions": [
+                        "misthalin"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 43,
+                    "slash": 54,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 32,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 3,
+                    "slash": 6,
+                    "crush": 1,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 4,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
             "id": "Cabbage_cape",
             "name": "Cabbage cape",
             "slot": "cape",
@@ -30519,6 +33091,104 @@
                     "crush": 7,
                     "magic": 7,
                     "range": 7
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Cape_of_skulls",
+            "name": "Cape of skulls",
+            "slot": "cape",
+            "levelTag": "",
+            "styles": [
+                "Melee"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Drop_Reward_casket_(easy)_0",
+                    "name": "Reward casket (easy)",
+                    "type": "Drop",
+                    "level": null,
+                    "difficulty": "Low",
+                    "rarity": null,
+                    "regions": [],
+                    "requiredRelics": [
+                        "t4c2"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 9,
+                    "slash": 9,
+                    "crush": 9,
+                    "magic": 9,
+                    "range": 9
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Chaos_gauntlets",
+            "name": "Chaos gauntlets",
+            "slot": "hands",
+            "levelTag": "",
+            "styles": [
+                "Melee"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_misthalin_Low_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "Low",
+                    "rarity": null,
+                    "regions": [
+                        "misthalin"
+                    ],
+                    "regionsAll": true
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 2,
+                    "slash": 2,
+                    "crush": 2,
+                    "magic": 0,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 2,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 8,
+                    "slash": 9,
+                    "crush": 7,
+                    "magic": 0,
+                    "range": 0
                 },
                 "prayer": 0,
                 "weapon": {
@@ -30776,6 +33446,55 @@
             }
         },
         {
+            "id": "Climbing_boots",
+            "name": "Climbing boots",
+            "slot": "feet",
+            "levelTag": "",
+            "styles": [
+                "Melee"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_asgarnia_Low_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "Low",
+                    "rarity": null,
+                    "regions": [
+                        "asgarnia"
+                    ],
+                    "regionsAll": true
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 2,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 2,
+                    "crush": 2,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
             "id": "Climbing_boots_(g)",
             "name": "Climbing boots (g)",
             "slot": "feet",
@@ -30814,6 +33533,252 @@
                     "stab": 0,
                     "slash": 2,
                     "crush": 2,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Clue_hunter_boots",
+            "name": "Clue hunter boots",
+            "slot": "feet",
+            "levelTag": "",
+            "styles": [
+                "Melee"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_kandarin_Medium_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "Low",
+                    "rarity": null,
+                    "regions": [
+                        "kandarin"
+                    ],
+                    "regionsAll": true
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 1,
+                    "crush": 1,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Clue_hunter_cloak",
+            "name": "Clue hunter cloak",
+            "slot": "cape",
+            "levelTag": "",
+            "styles": [
+                "Range"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_kandarin_Medium_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "Low",
+                    "rarity": null,
+                    "regions": [
+                        "kandarin"
+                    ],
+                    "regionsAll": true
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 1,
+                    "crush": 1,
+                    "magic": 0,
+                    "range": 2
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Clue_hunter_garb",
+            "name": "Clue hunter garb",
+            "slot": "body",
+            "levelTag": "",
+            "styles": [
+                "Range",
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_kourend_Medium_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "Low",
+                    "rarity": null,
+                    "regions": [
+                        "kourend"
+                    ],
+                    "regionsAll": true
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": -2,
+                    "range": 2
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 8,
+                    "slash": 9,
+                    "crush": 10,
+                    "magic": 4,
+                    "range": 9
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Clue_hunter_gloves",
+            "name": "Clue hunter gloves",
+            "slot": "hands",
+            "levelTag": "",
+            "styles": [
+                "Melee"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_kandarin_Medium_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "Low",
+                    "rarity": null,
+                    "regions": [
+                        "kandarin"
+                    ],
+                    "regionsAll": true
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 1,
+                    "crush": 2,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Clue_hunter_trousers",
+            "name": "Clue hunter trousers",
+            "slot": "legs",
+            "levelTag": "",
+            "styles": [
+                "Range"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_karamja_Low_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "Low",
+                    "rarity": null,
+                    "regions": [
+                        "karamja"
+                    ],
+                    "regionsAll": true
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 4
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 2,
+                    "slash": 2,
+                    "crush": 1,
                     "magic": 0,
                     "range": 0
                 },
@@ -92323,6 +95288,10 @@
             "Blue skirt (g)",
             "Blue skirt (t)",
             "Blue tricorn hat",
+            "Blunt arrow",
+            "Blurite bolts",
+            "Blurite crossbow",
+            "Blurite sword",
             "Bob the cat slippers",
             "Bob's black shirt",
             "Bob's blue shirt",
@@ -92334,6 +95303,7 @@
             "Body tiara",
             "Bomber cap",
             "Bomber jacket",
+            "Bonesack",
             "Book of balance (or)",
             "Book of darkness (or)",
             "Book of egg",
@@ -92348,18 +95318,22 @@
             "Bounty hunter hat (tier 6)",
             "Bow of faerdhinen (c) (deadman)",
             "Bowl wig",
+            "Boxing gloves",
             "Bracelet of clay",
             "Bracelet of slaughter",
             "Brass necklace",
             "Brassica halo",
             "Briefcase",
+            "Broken bark snelm",
             "Bronze arrow (Barbarian Assault)",
             "Bronze axe",
             "Bronze coffin",
+            "Bronze crossbow",
             "Bronze dragon mask",
             "Bronze felling axe",
             "Bronze fire arrow",
             "Bronze fist flag",
+            "Bronze hasta",
             "Bronze pickaxe",
             "Bronze speedrun trophy",
             "Bronze staff of collection",
@@ -92368,6 +95342,7 @@
             "Brown naval shirt",
             "Brown navy slacks",
             "Brown tricorn hat",
+            "Bruise blue snelm",
             "Bruma torch",
             "Bruma torch (off-hand)",
             "Brutus slippers",
@@ -92377,6 +95352,7 @@
             "Builder's boots",
             "Builder's shirt",
             "Builder's trousers",
+            "Bullet arrow",
             "Bunny ears",
             "Bunny feet",
             "Bunny legs",
@@ -92389,15 +95365,19 @@
             "Butler's uniform (top)",
             "Butterfly net",
             "Cake hat",
+            "Calamity breeches",
             "Calamity breeches (beta)",
+            "Calamity chest",
             "Calamity chest (beta)",
             "Camel mask",
             "Camo bottoms",
             "Camo helmet",
             "Camo top",
+            "Camphor blowpipe",
             "Camulet",
             "Candy cane",
             "Cap and goggles",
+            "Carnillean armour",
             "Carpenter's boots",
             "Carpenter's helmet",
             "Carpenter's shirt",
@@ -92406,16 +95386,25 @@
             "Carrot costume gloves",
             "Carrot costume tights",
             "Carrot sword",
+            "Castle wars arrow",
+            "Castle wars bolts",
             "Castle wars bracelet",
+            "Castlewars cloak (Saradomin)",
+            "Castlewars cloak (Zamorak)",
+            "Castlewars hood (Saradomin)",
+            "Castlewars hood (Zamorak)",
             "Cat ears",
             "Cat mask",
             "Cat training medal",
             "Catalytic tiara",
             "Catspeak amulet",
             "Catspeak amulet(e)",
+            "Cattleprod",
             "Cavalier mask",
+            "Cedar blowpipe",
             "Celestial ring",
             "Celestial signet",
+            "Centurion cuirass",
             "Champion's cape",
             "Chaos tiara",
             "Chaotic handegg",
@@ -94218,70 +97207,6 @@
             "Zuriel's staff (bh)"
         ],
         "pending": [
-            "Bloodbark body",
-            "Bloodbark boots",
-            "Bloodbark gauntlets",
-            "Bloodbark helm",
-            "Bloodbark legs",
-            "Blue d'hide shield",
-            "Blue spiky vambraces",
-            "Blunt arrow",
-            "Blurite bolts",
-            "Blurite crossbow",
-            "Blurite sword",
-            "Bone mace",
-            "Bone shortbow",
-            "Bone staff",
-            "Bonecrusher necklace",
-            "Bonesack",
-            "Book of balance",
-            "Book of darkness",
-            "Book of law",
-            "Book of the dead",
-            "Book of war",
-            "Boots of brimstone",
-            "Boots of lightness",
-            "Bow of faerdhinen (c)",
-            "Bow of faerdhinen (c) (Amlodd)",
-            "Bow of faerdhinen (c) (Cadarn)",
-            "Bow of faerdhinen (c) (Crwys)",
-            "Bow of faerdhinen (c) (Iorwerth)",
-            "Bow of faerdhinen (c) (Ithell)",
-            "Bow of faerdhinen (c) (Meilyr)",
-            "Bow of faerdhinen (c) (Trahaearn)",
-            "Boxing gloves",
-            "Brimstone ring",
-            "Broad bolts",
-            "Broken bark snelm",
-            "Bronze crossbow",
-            "Bronze hasta",
-            "Broodoo shield (combat)",
-            "Broodoo shield (disease)",
-            "Broodoo shield (poison)",
-            "Bruise blue snelm",
-            "Bryophyta's staff",
-            "Bullet arrow",
-            "Burning claws",
-            "Calamity breeches",
-            "Calamity chest",
-            "Camphor blowpipe",
-            "Carnillean armour",
-            "Castle wars arrow",
-            "Castle wars bolts",
-            "Castlewars cloak (Saradomin)",
-            "Castlewars cloak (Zamorak)",
-            "Castlewars hood (Saradomin)",
-            "Castlewars hood (Zamorak)",
-            "Cattleprod",
-            "Cedar blowpipe",
-            "Centurion cuirass",
-            "Chaos gauntlets",
-            "Climbing boots",
-            "Clue hunter boots",
-            "Clue hunter cloak",
-            "Clue hunter garb",
-            "Clue hunter gloves",
-            "Clue hunter trousers",
             "Colossal blade",
             "Combat bracelet",
             "Confliction gauntlets",
@@ -94939,329 +97864,6 @@
             "Zuriel's robe top (c)"
         ],
         "pendingWithSources": [
-            {
-                "name": "Blue d'hide body (g)",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(hard)_0",
-                        "name": "Reward casket (hard)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "Medium",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Blue d'hide body (t)",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(hard)_0",
-                        "name": "Reward casket (hard)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "Medium",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Blue d'hide chaps (g)",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(hard)_0",
-                        "name": "Reward casket (hard)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "Medium",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Blue d'hide chaps (t)",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(hard)_0",
-                        "name": "Reward casket (hard)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "Medium",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Blue wizard hat (g)",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(easy)_0",
-                        "name": "Reward casket (easy)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "Low",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Blue wizard hat (t)",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(easy)_0",
-                        "name": "Reward casket (easy)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "Low",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Blue wizard robe (g)",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(easy)_0",
-                        "name": "Reward casket (easy)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "Low",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Blue wizard robe (t)",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(easy)_0",
-                        "name": "Reward casket (easy)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "Low",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Bronze full helm (g)",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(easy)_0",
-                        "name": "Reward casket (easy)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "Low",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Bronze full helm (t)",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(easy)_0",
-                        "name": "Reward casket (easy)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "Low",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Bronze kiteshield (g)",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(easy)_0",
-                        "name": "Reward casket (easy)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "Low",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Bronze kiteshield (t)",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(easy)_0",
-                        "name": "Reward casket (easy)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "Low",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Bronze platebody (g)",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(easy)_0",
-                        "name": "Reward casket (easy)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "Low",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Bronze platebody (t)",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(easy)_0",
-                        "name": "Reward casket (easy)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "Low",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Bronze platelegs (g)",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(easy)_0",
-                        "name": "Reward casket (easy)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "Low",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Bronze platelegs (t)",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(easy)_0",
-                        "name": "Reward casket (easy)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "Low",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Bronze plateskirt (g)",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(easy)_0",
-                        "name": "Reward casket (easy)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "Low",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Bronze plateskirt (t)",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(easy)_0",
-                        "name": "Reward casket (easy)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "Low",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Cape of skulls",
-                "sources": [
-                    {
-                        "sourceId": "Drop_Reward_casket_(easy)_0",
-                        "name": "Reward casket (easy)",
-                        "type": "Drop",
-                        "level": null,
-                        "difficulty": "Low",
-                        "rarity": null,
-                        "regions": [],
-                        "requiredRelics": [
-                            "t4c2"
-                        ]
-                    }
-                ]
-            },
             {
                 "name": "Green d'hide body (g)",
                 "sources": [
@@ -97679,12 +100281,12 @@
                 ]
             }
         ],
-        "savedAt": "2026-03-29T13:24:50.416Z",
+        "savedAt": "2026-03-29T17:37:46.845Z",
         "stats": {
             "matched": 988,
-            "accepted": 0,
-            "rejected": 2230,
-            "pending": 866,
+            "accepted": 59,
+            "rejected": 2254,
+            "pending": 783,
             "purged": 0
         }
     }

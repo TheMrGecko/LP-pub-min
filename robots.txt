@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://leaguesplanner.com/sitemap.xml

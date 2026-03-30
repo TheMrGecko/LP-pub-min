@@ -33861,6 +33861,115 @@
             }
         },
         {
+            "id": "Colossal_blade",
+            "name": "Colossal blade",
+            "slot": "2h",
+            "levelTag": "",
+            "styles": [
+                "Melee",
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_desert_Medium_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "Medium",
+                    "rarity": null,
+                    "regions": [
+                        "desert"
+                    ],
+                    "regionsAll": true
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": -4,
+                    "slash": 98,
+                    "crush": 65,
+                    "magic": -4,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 100,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": -1
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 6,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Combat_bracelet",
+            "name": "Combat bracelet",
+            "slot": "hands",
+            "levelTag": "",
+            "styles": [
+                "Melee",
+                "Range",
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_asgarnia_desert_fremennik_kandarin_karamja_kourend_misthalin_tirannwn_varlamore_wilderness_Medium_OR",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "Medium",
+                    "rarity": null,
+                    "regions": [
+                        "asgarnia",
+                        "desert",
+                        "fremennik",
+                        "kandarin",
+                        "karamja",
+                        "kourend",
+                        "misthalin",
+                        "tirannwn",
+                        "varlamore",
+                        "wilderness"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 7,
+                    "slash": 7,
+                    "crush": 7,
+                    "magic": 3,
+                    "range": 7
+                },
+                "strength": {
+                    "melee": 6,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 5,
+                    "slash": 5,
+                    "crush": 5,
+                    "magic": 3,
+                    "range": 5
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
             "id": "Comp_ogre_bow",
             "name": "Comp ogre bow",
             "slot": "2h",
@@ -33915,6 +34024,229 @@
                 "prayer": 0,
                 "weapon": {
                     "tickSpeed": 5,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Confliction_gauntlets",
+            "name": "Confliction gauntlets",
+            "slot": "hands",
+            "levelTag": "",
+            "styles": [
+                "Range",
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Drop_Doom of Mokhaiotl_558",
+                    "name": "Doom of Mokhaiotl",
+                    "type": "Drop",
+                    "level": 558,
+                    "difficulty": "High",
+                    "rarity": "1/1,350–1/540",
+                    "regions": [
+                        "varlamore"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 20,
+                    "range": -4
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 7
+                },
+                "defence": {
+                    "stab": 15,
+                    "slash": 18,
+                    "crush": 7,
+                    "magic": 5,
+                    "range": 5
+                },
+                "prayer": 2,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Construct._cape",
+            "name": "Construct. cape",
+            "slot": "cape",
+            "levelTag": "",
+            "styles": [
+                "Melee"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Shop_Sage_0",
+                    "name": "Sage",
+                    "type": "Shop",
+                    "level": null,
+                    "difficulty": "low",
+                    "rarity": "Always",
+                    "regions": [
+                        "misthalin",
+                        "karamja",
+                        "asgarnia",
+                        "fremennik",
+                        "kandarin",
+                        "desert",
+                        "morytania",
+                        "tirannwn",
+                        "wilderness",
+                        "kourend",
+                        "varlamore"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 9,
+                    "slash": 9,
+                    "crush": 9,
+                    "magic": 9,
+                    "range": 9
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Cooking_cape",
+            "name": "Cooking cape",
+            "slot": "cape",
+            "levelTag": "",
+            "styles": [
+                "Melee"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Shop_Sage_0",
+                    "name": "Sage",
+                    "type": "Shop",
+                    "level": null,
+                    "difficulty": "low",
+                    "rarity": "Always",
+                    "regions": [
+                        "misthalin",
+                        "karamja",
+                        "asgarnia",
+                        "fremennik",
+                        "kandarin",
+                        "desert",
+                        "morytania",
+                        "tirannwn",
+                        "wilderness",
+                        "kourend",
+                        "varlamore"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 9,
+                    "slash": 9,
+                    "crush": 9,
+                    "magic": 9,
+                    "range": 9
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Crafting_cape",
+            "name": "Crafting cape",
+            "slot": "cape",
+            "levelTag": "",
+            "styles": [
+                "Melee"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Shop_Sage_0",
+                    "name": "Sage",
+                    "type": "Shop",
+                    "level": null,
+                    "difficulty": "low",
+                    "rarity": "Always",
+                    "regions": [
+                        "misthalin",
+                        "karamja",
+                        "asgarnia",
+                        "fremennik",
+                        "kandarin",
+                        "desert",
+                        "morytania",
+                        "tirannwn",
+                        "wilderness",
+                        "kourend",
+                        "varlamore"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 9,
+                    "slash": 9,
+                    "crush": 9,
+                    "magic": 9,
+                    "range": 9
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
                     "specialAttack": false
                 }
             }
@@ -34570,6 +34902,254 @@
             }
         },
         {
+            "id": "Crystal_bow",
+            "name": "Crystal bow",
+            "slot": "2h",
+            "levelTag": "",
+            "styles": [
+                "Range"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_tirannwn_Medium_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "Medium",
+                    "rarity": null,
+                    "regions": [
+                        "tirannwn"
+                    ],
+                    "regionsAll": true
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 100
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 78,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 5,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Crystal_bow_(i)",
+            "name": "Crystal bow (i)",
+            "slot": "2h",
+            "levelTag": "",
+            "styles": [
+                "Range"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_tirannwn_Medium_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "Medium",
+                    "rarity": null,
+                    "regions": [
+                        "tirannwn"
+                    ],
+                    "regionsAll": true
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 100
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 70,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 5,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Crystal_halberd",
+            "name": "Crystal halberd",
+            "slot": "2h",
+            "levelTag": "",
+            "styles": [
+                "Melee",
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_tirannwn_Medium_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "Medium",
+                    "rarity": null,
+                    "regions": [
+                        "tirannwn"
+                    ],
+                    "regionsAll": true
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 85,
+                    "slash": 110,
+                    "crush": 5,
+                    "magic": -4,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 118,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": -1,
+                    "slash": 4,
+                    "crush": 5,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 7,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Crystal_halberd_(i)",
+            "name": "Crystal halberd (i)",
+            "slot": "2h",
+            "levelTag": "",
+            "styles": [
+                "Melee",
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_tirannwn_Medium_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "Medium",
+                    "rarity": null,
+                    "regions": [
+                        "tirannwn"
+                    ],
+                    "regionsAll": true
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 85,
+                    "slash": 110,
+                    "crush": 5,
+                    "magic": -4,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 118,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": -1,
+                    "slash": 4,
+                    "crush": 5,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 7,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Crystal_shield_(i)",
+            "name": "Crystal shield (i)",
+            "slot": "shield",
+            "levelTag": "",
+            "styles": [
+                "Range",
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_tirannwn_Medium_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "Medium",
+                    "rarity": null,
+                    "regions": [
+                        "tirannwn"
+                    ],
+                    "regionsAll": true
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": -10,
+                    "range": -10
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 51,
+                    "slash": 54,
+                    "crush": 53,
+                    "magic": 0,
+                    "range": 80
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
             "id": "Dagon'hai_hat",
             "name": "Dagon'hai hat",
             "slot": "head",
@@ -34717,6 +35297,294 @@
             }
         },
         {
+            "id": "Damaged_book_(Ancient)",
+            "name": "Damaged book (Ancient)",
+            "slot": "shield",
+            "levelTag": "",
+            "styles": [
+                "Melee"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Shop_Lighthouse_Shop_0",
+                    "name": "Lighthouse Shop",
+                    "type": "Shop",
+                    "level": null,
+                    "difficulty": "low",
+                    "rarity": "Always",
+                    "regions": [
+                        "fremennik"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 5,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Damaged_book_(Armadyl)",
+            "name": "Damaged book (Armadyl)",
+            "slot": "shield",
+            "levelTag": "",
+            "styles": [
+                "Melee"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Shop_Lighthouse_Shop_0",
+                    "name": "Lighthouse Shop",
+                    "type": "Shop",
+                    "level": null,
+                    "difficulty": "low",
+                    "rarity": "Always",
+                    "regions": [
+                        "fremennik"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 5,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Damaged_book_(Bandos)",
+            "name": "Damaged book (Bandos)",
+            "slot": "shield",
+            "levelTag": "",
+            "styles": [
+                "Melee"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Shop_Lighthouse_Shop_0",
+                    "name": "Lighthouse Shop",
+                    "type": "Shop",
+                    "level": null,
+                    "difficulty": "low",
+                    "rarity": "Always",
+                    "regions": [
+                        "fremennik"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 5,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Damaged_book_(Guthix)",
+            "name": "Damaged book (Guthix)",
+            "slot": "shield",
+            "levelTag": "",
+            "styles": [
+                "Melee"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Shop_Lighthouse_Shop_0",
+                    "name": "Lighthouse Shop",
+                    "type": "Shop",
+                    "level": null,
+                    "difficulty": "low",
+                    "rarity": "Always",
+                    "regions": [
+                        "fremennik"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 5,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Damaged_book_(Saradomin)",
+            "name": "Damaged book (Saradomin)",
+            "slot": "shield",
+            "levelTag": "",
+            "styles": [
+                "Melee"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Shop_Lighthouse_Shop_0",
+                    "name": "Lighthouse Shop",
+                    "type": "Shop",
+                    "level": null,
+                    "difficulty": "low",
+                    "rarity": "Always",
+                    "regions": [
+                        "fremennik"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 5,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Damaged_book_(Zamorak)",
+            "name": "Damaged book (Zamorak)",
+            "slot": "shield",
+            "levelTag": "",
+            "styles": [
+                "Melee"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Shop_Lighthouse_Shop_0",
+                    "name": "Lighthouse Shop",
+                    "type": "Shop",
+                    "level": null,
+                    "difficulty": "low",
+                    "rarity": "Always",
+                    "regions": [
+                        "fremennik"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 5,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
             "id": "Dark_bow",
             "name": "Dark bow",
             "slot": "2h",
@@ -34760,6 +35628,210 @@
                 "prayer": 0,
                 "weapon": {
                     "tickSpeed": 9,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Darklight",
+            "name": "Darklight",
+            "slot": "weapon",
+            "levelTag": "",
+            "styles": [
+                "Melee"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_asgarnia_Medium_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "Medium",
+                    "rarity": null,
+                    "regions": [
+                        "asgarnia"
+                    ],
+                    "regionsAll": true
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 10,
+                    "slash": 16,
+                    "crush": -2,
+                    "magic": 0,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 13,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 3,
+                    "crush": 2,
+                    "magic": 2,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 5,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Defence_cape",
+            "name": "Defence cape",
+            "slot": "cape",
+            "levelTag": "",
+            "styles": [
+                "Melee"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Shop_Sage_0",
+                    "name": "Sage",
+                    "type": "Shop",
+                    "level": null,
+                    "difficulty": "low",
+                    "rarity": "Always",
+                    "regions": [
+                        "misthalin",
+                        "karamja",
+                        "asgarnia",
+                        "fremennik",
+                        "kandarin",
+                        "desert",
+                        "morytania",
+                        "tirannwn",
+                        "wilderness",
+                        "kourend",
+                        "varlamore"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 9,
+                    "slash": 9,
+                    "crush": 9,
+                    "magic": 9,
+                    "range": 9
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Devil's_element",
+            "name": "Devil's element",
+            "slot": "shield",
+            "levelTag": "",
+            "styles": [
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Drop_Thermonuclear_smoke_devil_(Echo)_602",
+                    "name": "Thermonuclear smoke devil (Echo)",
+                    "type": "Drop",
+                    "level": 602,
+                    "difficulty": "medium",
+                    "rarity": "1/25",
+                    "regions": [
+                        "kandarin"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 20,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 6
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 3,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Devout_boots",
+            "name": "Devout boots",
+            "slot": "feet",
+            "levelTag": "",
+            "styles": [
+                "Melee"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_kourend_Medium_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "Medium",
+                    "rarity": null,
+                    "regions": [
+                        "kourend"
+                    ],
+                    "regionsAll": true
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 5,
+                "weapon": {
+                    "tickSpeed": 0,
                     "specialAttack": false
                 }
             }
@@ -34957,6 +36029,64 @@
             }
         },
         {
+            "id": "Diamond_bolts",
+            "name": "Diamond bolts",
+            "slot": "ammo",
+            "levelTag": "",
+            "styles": [
+                "Range"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_asgarnia_desert_fremennik_kandarin_karamja_kourend_misthalin_morytania_tirannwn_varlamore_wilderness_Medium_OR",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "Medium",
+                    "rarity": null,
+                    "regions": [
+                        "asgarnia",
+                        "desert",
+                        "fremennik",
+                        "kandarin",
+                        "karamja",
+                        "kourend",
+                        "misthalin",
+                        "morytania",
+                        "tirannwn",
+                        "varlamore",
+                        "wilderness"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 105,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
             "id": "Diamond_bolts_(e)",
             "name": "Diamond bolts (e)",
             "slot": "ammo",
@@ -34999,6 +36129,122 @@
                 "strength": {
                     "melee": 0,
                     "range": 105,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Diamond_dragon_bolts",
+            "name": "Diamond dragon bolts",
+            "slot": "ammo",
+            "levelTag": "",
+            "styles": [
+                "Range"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_asgarnia_desert_fremennik_kandarin_karamja_kourend_misthalin_morytania_tirannwn_varlamore_wilderness_Medium_OR",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "Medium",
+                    "rarity": null,
+                    "regions": [
+                        "asgarnia",
+                        "desert",
+                        "fremennik",
+                        "kandarin",
+                        "karamja",
+                        "kourend",
+                        "misthalin",
+                        "morytania",
+                        "tirannwn",
+                        "varlamore",
+                        "wilderness"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 122,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Diamond_dragon_bolts_(e)",
+            "name": "Diamond dragon bolts (e)",
+            "slot": "ammo",
+            "levelTag": "",
+            "styles": [
+                "Range"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_asgarnia_desert_fremennik_kandarin_karamja_kourend_misthalin_morytania_tirannwn_varlamore_wilderness_Medium_OR",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "Medium",
+                    "rarity": null,
+                    "regions": [
+                        "asgarnia",
+                        "desert",
+                        "fremennik",
+                        "kandarin",
+                        "karamja",
+                        "kourend",
+                        "misthalin",
+                        "morytania",
+                        "tirannwn",
+                        "varlamore",
+                        "wilderness"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 122,
                     "magic": 0
                 },
                 "defence": {
@@ -35059,6 +36305,55 @@
                 "prayer": 0,
                 "weapon": {
                     "tickSpeed": 5,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Dizana's_max_cape",
+            "name": "Dizana's max cape",
+            "slot": "cape",
+            "levelTag": "",
+            "styles": [
+                "Range"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_varlamore_Medium_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "Medium",
+                    "rarity": null,
+                    "regions": [
+                        "varlamore"
+                    ],
+                    "regionsAll": true
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 18
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 3,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
                     "specialAttack": false
                 }
             }
@@ -35582,6 +36877,144 @@
             }
         },
         {
+            "id": "Dragon_bolts",
+            "name": "Dragon bolts",
+            "slot": "ammo",
+            "levelTag": "",
+            "styles": [
+                "Range"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Drop_Phantom Muspah_741",
+                    "name": "Phantom Muspah",
+                    "type": "Drop",
+                    "level": 741,
+                    "difficulty": "Medium",
+                    "rarity": "2 × 5/235",
+                    "regions": [
+                        "fremennik"
+                    ]
+                },
+                {
+                    "sourceId": "Drop_The Leviathan_593",
+                    "name": "The Leviathan",
+                    "type": "Drop",
+                    "level": 593,
+                    "difficulty": "High",
+                    "rarity": "1/100",
+                    "regions": [
+                        "desert"
+                    ]
+                },
+                {
+                    "sourceId": "Drop_Rune dragon_380",
+                    "name": "Rune dragon",
+                    "type": "Drop",
+                    "level": 380,
+                    "difficulty": "Medium",
+                    "rarity": "1/127",
+                    "regions": [
+                        "misthalin",
+                        "fremennik"
+                    ]
+                },
+                {
+                    "sourceId": "Drop_Adamant dragon_338",
+                    "name": "Adamant dragon",
+                    "type": "Drop",
+                    "level": 338,
+                    "difficulty": "Medium",
+                    "rarity": "8/110",
+                    "regions": [
+                        "misthalin",
+                        "fremennik"
+                    ]
+                },
+                {
+                    "sourceId": "Drop_Nex_1001",
+                    "name": "Nex",
+                    "type": "Drop",
+                    "level": 1001,
+                    "difficulty": "High",
+                    "rarity": "Uncommon",
+                    "regions": [
+                        "asgarnia"
+                    ]
+                },
+                {
+                    "sourceId": "Drop_Vorkath Post-quest_732",
+                    "name": "Vorkath Post-quest",
+                    "type": "Drop",
+                    "level": 732,
+                    "difficulty": "Medium",
+                    "rarity": "2 × 4/150",
+                    "regions": [
+                        "fremennik"
+                    ]
+                },
+                {
+                    "sourceId": "Drop_Rewards Chest (Fortis Colosseum) Wave 7_0",
+                    "name": "Rewards Chest (Fortis Colosseum) Wave 7",
+                    "type": "Drop",
+                    "level": null,
+                    "difficulty": "Medium",
+                    "rarity": "5,832/45,920",
+                    "regions": [
+                        "varlamore"
+                    ]
+                },
+                {
+                    "sourceId": "Drop_Rewards Chest (Fortis Colosseum) Wave 9_0",
+                    "name": "Rewards Chest (Fortis Colosseum) Wave 9",
+                    "type": "Drop",
+                    "level": null,
+                    "difficulty": "High",
+                    "rarity": "424/21,600",
+                    "regions": [
+                        "varlamore"
+                    ]
+                },
+                {
+                    "sourceId": "Drop_Forgotten lockbox_0",
+                    "name": "Forgotten lockbox",
+                    "type": "Drop",
+                    "level": null,
+                    "difficulty": "High",
+                    "rarity": "60/403",
+                    "regions": [
+                        "kourend"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 122,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
             "id": "Dragon_boots",
             "name": "Dragon boots",
             "slot": "feet",
@@ -35831,6 +37264,67 @@
                 "prayer": 0,
                 "weapon": {
                     "tickSpeed": 4,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Dragon_crossbow",
+            "name": "Dragon crossbow",
+            "slot": "weapon",
+            "levelTag": "",
+            "styles": [
+                "Range"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Drop_Rune dragon_380",
+                    "name": "Rune dragon",
+                    "type": "Drop",
+                    "level": 380,
+                    "difficulty": "Medium",
+                    "rarity": "1/127",
+                    "regions": [
+                        "misthalin",
+                        "fremennik"
+                    ]
+                },
+                {
+                    "sourceId": "Drop_Adamant dragon_338",
+                    "name": "Adamant dragon",
+                    "type": "Drop",
+                    "level": 338,
+                    "difficulty": "Medium",
+                    "rarity": "8/110",
+                    "regions": [
+                        "misthalin",
+                        "fremennik"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 94
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 6,
                     "specialAttack": false
                 }
             }
@@ -36685,6 +38179,54 @@
             }
         },
         {
+            "id": "Dragon_hasta",
+            "name": "Dragon hasta",
+            "slot": "weapon",
+            "levelTag": "",
+            "styles": [
+                "Melee"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Drop_Brimstone chest_0",
+                    "name": "Brimstone chest",
+                    "type": "Drop",
+                    "level": null,
+                    "difficulty": "Medium",
+                    "rarity": "1/1,000",
+                    "regions": [
+                        "kourend"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 55,
+                    "slash": 55,
+                    "crush": 55,
+                    "magic": 0,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 60,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": -15,
+                    "slash": -15,
+                    "crush": -12,
+                    "magic": 0,
+                    "range": -15
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 4,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
             "id": "Dragon_hunter_crossbow",
             "name": "Dragon hunter crossbow",
             "slot": "weapon",
@@ -36728,6 +38270,54 @@
                 "prayer": 0,
                 "weapon": {
                     "tickSpeed": 6,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Dragon_hunter_lance",
+            "name": "Dragon hunter lance",
+            "slot": "weapon",
+            "levelTag": "",
+            "styles": [
+                "Melee"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Drop_Alchemical Hydra_426",
+                    "name": "Alchemical Hydra",
+                    "type": "Drop",
+                    "level": 426,
+                    "difficulty": "High",
+                    "rarity": "2 × 5/101",
+                    "regions": [
+                        "kourend"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 85,
+                    "slash": 65,
+                    "crush": 65,
+                    "magic": 0,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 70,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 4,
                     "specialAttack": false
                 }
             }
@@ -95463,7 +97053,9 @@
             "Collection log (steel)",
             "Collector icon",
             "Construct. hood",
+            "Cooking gauntlets",
             "Cooking hood",
+            "Cormorant's glove",
             "Corrupted armadyl godsword",
             "Corrupted axe",
             "Corrupted body (attuned)",
@@ -95518,6 +97110,9 @@
             "Cow top",
             "Cow trousers",
             "Cowbell amulet",
+            "Crab claw",
+            "Crab helmet",
+            "Crabclaw hook",
             "Crafting hood",
             "Crate of adamantite ore",
             "Crate of alpaca wool",
@@ -95730,6 +97325,7 @@
             "Crystal pendant",
             "Crystal pickaxe",
             "Crystal pickaxe (The Gauntlet)",
+            "Crystal sceptre",
             "Crystal shield",
             "Crystal shield (historical)",
             "Crystal staff (attuned)",
@@ -95750,26 +97346,68 @@
             "Dark bow (deadman)",
             "Dark bow tie",
             "Dark cavalier",
+            "Dark dagger",
+            "Dark flippers",
+            "Dark infinity bottoms",
+            "Dark infinity hat",
+            "Dark infinity top",
+            "Dark squall hood",
+            "Dark squall robe bottom",
+            "Dark squall robe top",
             "Dark trousers",
             "Dark tuxedo cuffs",
             "Dark tuxedo jacket",
             "Dark tuxedo shoes",
+            "Dawnbringer",
             "Deadman's cape",
             "Deadman's chest",
             "Deadman's legs",
             "Death tiara",
+            "Decorative armour (gold platebody)",
+            "Decorative armour (gold platelegs)",
+            "Decorative armour (gold plateskirt)",
+            "Decorative armour (magic hat)",
+            "Decorative armour (magic legs)",
+            "Decorative armour (magic top)",
+            "Decorative armour (quiver)",
+            "Decorative armour (ranged legs)",
+            "Decorative armour (ranged top)",
+            "Decorative armour (red platebody)",
+            "Decorative armour (red platelegs)",
+            "Decorative armour (red plateskirt)",
+            "Decorative armour (white platebody)",
+            "Decorative armour (white platelegs)",
+            "Decorative armour (white plateskirt)",
+            "Decorative boots (gold)",
+            "Decorative boots (red)",
+            "Decorative boots (white)",
+            "Decorative full helm (gold)",
+            "Decorative full helm (red)",
+            "Decorative full helm (white)",
+            "Decorative helm (gold)",
+            "Decorative helm (red)",
+            "Decorative helm (white)",
+            "Decorative shield (gold)",
+            "Decorative shield (red)",
+            "Decorative shield (white)",
+            "Decorative sword (gold)",
+            "Decorative sword (red)",
+            "Decorative sword (white)",
             "Deep sea apparatus",
             "Deep sea apparatus (The Red Reef)",
             "Deep sea helmet (The Red Reef)",
             "Deerstalker",
             "Defence hood",
             "Defender icon",
+            "Defensive shield",
             "Demon feet",
             "Desert amulet 1",
             "Desert amulet 2",
             "Desert amulet 3",
             "Desert amulet 4",
             "Desert boots",
+            "Desert camo legs",
+            "Desert camo top",
             "Desert disguise",
             "Desert legs",
             "Desert robe",
@@ -95803,8 +97441,10 @@
             "Dragon axe (or)",
             "Dragon battleaxe (cr)",
             "Dragon boots (cr)",
+            "Dragon boots (g)",
             "Dragon candle dagger",
             "Dragon chainbody (cr)",
+            "Dragon chainbody (g)",
             "Dragon claws (Last Man Standing)",
             "Dragon claws (cr)",
             "Dragon claws (or)",
@@ -95812,10 +97452,14 @@
             "Dragon dagger (Last Man Standing)",
             "Dragon dagger (cr)",
             "Dragon defender (Last Man Standing)",
+            "Dragon defender (t)",
             "Dragon felling axe",
             "Dragon fire arrow",
+            "Dragon full helm (g)",
             "Dragon halberd (cr)",
             "Dragon harpoon (or)",
+            "Dragon hunter crossbow (b)",
+            "Dragon hunter crossbow (t)",
             "Dragon javelin (Last Man Standing)",
             "Dragon knife (Last Man Standing)",
             "Dragon knife (animation item)",
@@ -97207,89 +98851,6 @@
             "Zuriel's staff (bh)"
         ],
         "pending": [
-            "Colossal blade",
-            "Combat bracelet",
-            "Confliction gauntlets",
-            "Construct. cape",
-            "Cooking cape",
-            "Cooking gauntlets",
-            "Cormorant's glove",
-            "Crab claw",
-            "Crab helmet",
-            "Crabclaw hook",
-            "Crafting cape",
-            "Crystal bow",
-            "Crystal bow (i)",
-            "Crystal halberd",
-            "Crystal halberd (i)",
-            "Crystal sceptre",
-            "Crystal shield (i)",
-            "Damaged book (Ancient)",
-            "Damaged book (Armadyl)",
-            "Damaged book (Bandos)",
-            "Damaged book (Guthix)",
-            "Damaged book (Saradomin)",
-            "Damaged book (Zamorak)",
-            "Dark dagger",
-            "Dark flippers",
-            "Dark infinity bottoms",
-            "Dark infinity hat",
-            "Dark infinity top",
-            "Dark squall hood",
-            "Dark squall robe bottom",
-            "Dark squall robe top",
-            "Darklight",
-            "Dawnbringer",
-            "Decorative armour (gold platebody)",
-            "Decorative armour (gold platelegs)",
-            "Decorative armour (gold plateskirt)",
-            "Decorative armour (magic hat)",
-            "Decorative armour (magic legs)",
-            "Decorative armour (magic top)",
-            "Decorative armour (quiver)",
-            "Decorative armour (ranged legs)",
-            "Decorative armour (ranged top)",
-            "Decorative armour (red platebody)",
-            "Decorative armour (red platelegs)",
-            "Decorative armour (red plateskirt)",
-            "Decorative armour (white platebody)",
-            "Decorative armour (white platelegs)",
-            "Decorative armour (white plateskirt)",
-            "Decorative boots (gold)",
-            "Decorative boots (red)",
-            "Decorative boots (white)",
-            "Decorative full helm (gold)",
-            "Decorative full helm (red)",
-            "Decorative full helm (white)",
-            "Decorative helm (gold)",
-            "Decorative helm (red)",
-            "Decorative helm (white)",
-            "Decorative shield (gold)",
-            "Decorative shield (red)",
-            "Decorative shield (white)",
-            "Decorative sword (gold)",
-            "Decorative sword (red)",
-            "Decorative sword (white)",
-            "Defence cape",
-            "Defensive shield",
-            "Desert camo legs",
-            "Desert camo top",
-            "Devil's element",
-            "Devout boots",
-            "Diamond bolts",
-            "Diamond dragon bolts",
-            "Diamond dragon bolts (e)",
-            "Dizana's max cape",
-            "Dragon bolts",
-            "Dragon boots (g)",
-            "Dragon chainbody (g)",
-            "Dragon crossbow",
-            "Dragon defender (t)",
-            "Dragon full helm (g)",
-            "Dragon hasta",
-            "Dragon hunter crossbow (b)",
-            "Dragon hunter crossbow (t)",
-            "Dragon hunter lance",
             "Dragon javelin",
             "Dragon kiteshield",
             "Dragon kiteshield (g)",
@@ -100281,12 +101842,12 @@
                 ]
             }
         ],
-        "savedAt": "2026-03-29T17:37:46.845Z",
+        "savedAt": "2026-03-30T08:33:52.846Z",
         "stats": {
-            "matched": 988,
-            "accepted": 59,
-            "rejected": 2254,
-            "pending": 783,
+            "matched": 1047,
+            "accepted": 29,
+            "rejected": 2308,
+            "pending": 700,
             "purged": 0
         }
     }

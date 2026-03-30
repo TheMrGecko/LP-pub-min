@@ -40518,6 +40518,55 @@
             }
         },
         {
+            "id": "Dragon_sq_shield",
+            "name": "Dragon sq shield",
+            "slot": "shield",
+            "levelTag": "",
+            "styles": [
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_kandarin_Medium_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "Medium",
+                    "rarity": null,
+                    "regions": [
+                        "kandarin"
+                    ],
+                    "regionsAll": true
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": -6,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 50,
+                    "slash": 52,
+                    "crush": 48,
+                    "magic": 0,
+                    "range": 50
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
             "id": "Dragon_sword",
             "name": "Dragon sword",
             "slot": "weapon",
@@ -40844,6 +40893,65 @@
                 "prayer": 0,
                 "weapon": {
                     "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Dramen_staff",
+            "name": "Dramen staff",
+            "slot": "weapon",
+            "levelTag": "",
+            "styles": [
+                "Melee",
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Shop_Sage_0",
+                    "name": "Sage",
+                    "type": "Shop",
+                    "level": null,
+                    "difficulty": "low",
+                    "rarity": "Always",
+                    "regions": [
+                        "misthalin",
+                        "karamja",
+                        "asgarnia",
+                        "fremennik",
+                        "kandarin",
+                        "desert",
+                        "morytania",
+                        "tirannwn",
+                        "wilderness",
+                        "kourend",
+                        "varlamore"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": -1,
+                    "slash": -1,
+                    "crush": 10,
+                    "magic": 10,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 10,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 2,
+                    "slash": 3,
+                    "crush": 1,
+                    "magic": 10,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 4,
                     "specialAttack": false
                 }
             }
@@ -41274,6 +41382,57 @@
                 "prayer": 2,
                 "weapon": {
                     "tickSpeed": 4,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Echo_boots",
+            "name": "Echo boots",
+            "slot": "feet",
+            "levelTag": "",
+            "styles": [
+                "Melee",
+                "Range",
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_varlamore_High_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "High",
+                    "rarity": null,
+                    "regions": [
+                        "varlamore"
+                    ],
+                    "regionsAll": true
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": -3,
+                    "range": -1
+                },
+                "strength": {
+                    "melee": 3,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 32,
+                    "slash": 32,
+                    "crush": 32,
+                    "magic": -3,
+                    "range": 24
+                },
+                "prayer": 4,
+                "weapon": {
+                    "tickSpeed": 0,
                     "specialAttack": false
                 }
             }
@@ -41711,6 +41870,114 @@
             }
         },
         {
+            "id": "Eldritch_nightmare_staff",
+            "name": "Eldritch nightmare staff",
+            "slot": "weapon",
+            "levelTag": "",
+            "styles": [
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Drop_Phosani's Nightmare_1024",
+                    "name": "Phosani's Nightmare",
+                    "type": "Drop",
+                    "level": 1024,
+                    "difficulty": "High",
+                    "rarity": "1/700",
+                    "regions": [
+                        "morytania"
+                    ]
+                },
+                {
+                    "sourceId": "Drop_The Nightmare_814",
+                    "name": "The Nightmare",
+                    "type": "Drop",
+                    "level": 814,
+                    "difficulty": "High",
+                    "rarity": "1/420–1/240.1",
+                    "regions": [
+                        "morytania"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 16,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 15
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 14,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 5,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Elemental_shield",
+            "name": "Elemental shield",
+            "slot": "shield",
+            "levelTag": "",
+            "styles": [
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_kandarin_Low_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "Low",
+                    "rarity": null,
+                    "regions": [
+                        "kandarin"
+                    ],
+                    "regionsAll": true
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 6,
+                    "range": 0
+                },
+                "prayer": 0,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
             "id": "Elidinis'_ward",
             "name": "Elidinis' ward",
             "slot": "shield",
@@ -41753,6 +42020,56 @@
                     "range": 6
                 },
                 "prayer": 1,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Elidinis'_ward_(f)",
+            "name": "Elidinis' ward (f)",
+            "slot": "shield",
+            "levelTag": "",
+            "styles": [
+                "Magic"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_desert_wilderness_High_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "High",
+                    "rarity": null,
+                    "regions": [
+                        "desert",
+                        "wilderness"
+                    ],
+                    "regionsAll": true
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 25,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 5
+                },
+                "defence": {
+                    "stab": 53,
+                    "slash": 55,
+                    "crush": 73,
+                    "magic": 2,
+                    "range": 52
+                },
+                "prayer": 4,
                 "weapon": {
                     "tickSpeed": 0,
                     "specialAttack": false
@@ -41900,6 +42217,154 @@
                     "range": 22
                 },
                 "prayer": 6,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Elite_void_robe",
+            "name": "Elite void robe",
+            "slot": "legs",
+            "levelTag": "",
+            "styles": [
+                "Melee"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_asgarnia_kandarin_Medium_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "Medium",
+                    "rarity": null,
+                    "regions": [
+                        "asgarnia",
+                        "kandarin"
+                    ],
+                    "regionsAll": true
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 30,
+                    "slash": 30,
+                    "crush": 30,
+                    "magic": 30,
+                    "range": 30
+                },
+                "prayer": 3,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Elite_void_top",
+            "name": "Elite void top",
+            "slot": "body",
+            "levelTag": "",
+            "styles": [
+                "Melee"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Region_asgarnia_kandarin_Medium_AND",
+                    "name": "",
+                    "type": "Region",
+                    "level": null,
+                    "difficulty": "Medium",
+                    "rarity": null,
+                    "regions": [
+                        "asgarnia",
+                        "kandarin"
+                    ],
+                    "regionsAll": true
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 45,
+                    "slash": 45,
+                    "crush": 45,
+                    "magic": 45,
+                    "range": 45
+                },
+                "prayer": 3,
+                "weapon": {
+                    "tickSpeed": 0,
+                    "specialAttack": false
+                }
+            }
+        },
+        {
+            "id": "Elysian_spirit_shield",
+            "name": "Elysian spirit shield",
+            "slot": "shield",
+            "levelTag": "",
+            "styles": [
+                "Range"
+            ],
+            "sources": [
+                {
+                    "sourceId": "Drop_Corporeal Beast_785",
+                    "name": "Corporeal Beast",
+                    "type": "Drop",
+                    "level": 785,
+                    "difficulty": "High",
+                    "rarity": "17/512",
+                    "regions": [
+                        "wilderness"
+                    ]
+                }
+            ],
+            "stats": {
+                "attack": {
+                    "stab": 0,
+                    "slash": 0,
+                    "crush": 0,
+                    "magic": 0,
+                    "range": 0
+                },
+                "strength": {
+                    "melee": 0,
+                    "range": 0,
+                    "magic": 0
+                },
+                "defence": {
+                    "stab": 63,
+                    "slash": 65,
+                    "crush": 75,
+                    "magic": 2,
+                    "range": 57
+                },
+                "prayer": 3,
                 "weapon": {
                     "tickSpeed": 0,
                     "specialAttack": false
@@ -97460,7 +97925,10 @@
             "Dragon harpoon (or)",
             "Dragon hunter crossbow (b)",
             "Dragon hunter crossbow (t)",
+            "Dragon javelin",
             "Dragon javelin (Last Man Standing)",
+            "Dragon kiteshield",
+            "Dragon kiteshield (g)",
             "Dragon knife (Last Man Standing)",
             "Dragon knife (animation item)",
             "Dragon longsword (bh)",
@@ -97472,13 +97940,18 @@
             "Dragon pickaxe (or)",
             "Dragon pickaxe (or) (Trailblazer)",
             "Dragon pickaxe (upgraded)",
+            "Dragon platebody",
+            "Dragon platebody (g)",
             "Dragon platelegs (cr)",
+            "Dragon platelegs (g)",
             "Dragon plateskirt (cr)",
+            "Dragon plateskirt (g)",
             "Dragon scimitar (Last Man Standing)",
             "Dragon scimitar (cr)",
             "Dragon scimitar (or)",
             "Dragon spear (cr)",
             "Dragon sq shield (cr)",
+            "Dragon sq shield (g)",
             "Dragon staff of collection",
             "Dragon sword (cr)",
             "Dragon warhammer (cr)",
@@ -97488,6 +97961,7 @@
             "Dragonstone ring",
             "Drakan's medallion",
             "Druidic wreath",
+            "Drygore blowpipe",
             "Dual macuahuitl (Last Man Standing)",
             "Eagle cape",
             "Earmuffs",
@@ -97504,6 +97978,9 @@
             "Echo axe",
             "Echo harpoon",
             "Echo pickaxe",
+            "Echo venator bow",
+            "Echo virtus robe bottom",
+            "Echo virtus robe top",
             "Eclipse atlatl (Last Man Standing)",
             "Eclipse moon chestplate (Last Man Standing)",
             "Eclipse moon helm (Last Man Standing)",
@@ -97525,13 +98002,17 @@
             "Elder maul (Last Man Standing)",
             "Elder maul (beta)",
             "Elder maul (or)",
+            "Elder wand",
             "Eldritch nightmare staff (beta)",
             "Elem longsword (RuneScape 2 Beta)",
+            "Elemental helmet",
             "Elemental tiara",
             "Elidinis' broken ward (beta)",
             "Elidinis' ward (beta)",
             "Elidinis' ward (or)",
+            "Elite calamity breeches",
             "Elite calamity breeches (beta)",
+            "Elite calamity chest",
             "Elite calamity chest (beta)",
             "Elite void robe (or)",
             "Elite void top (or)",
@@ -98851,15 +99332,6 @@
             "Zuriel's staff (bh)"
         ],
         "pending": [
-            "Dragon javelin",
-            "Dragon kiteshield",
-            "Dragon kiteshield (g)",
-            "Dragon platebody",
-            "Dragon platebody (g)",
-            "Dragon platelegs (g)",
-            "Dragon plateskirt (g)",
-            "Dragon sq shield",
-            "Dragon sq shield (g)",
             "Dragonfire shield",
             "Dragonfire ward",
             "Dragonstone boots",
@@ -98869,23 +99341,7 @@
             "Dragonstone gauntlets",
             "Dragonstone platebody",
             "Dragonstone platelegs",
-            "Dramen staff",
-            "Drygore blowpipe",
             "Dwarven helmet",
-            "Echo boots",
-            "Echo venator bow",
-            "Echo virtus robe bottom",
-            "Echo virtus robe top",
-            "Elder wand",
-            "Eldritch nightmare staff",
-            "Elemental helmet",
-            "Elemental shield",
-            "Elidinis' ward (f)",
-            "Elite calamity breeches",
-            "Elite calamity chest",
-            "Elite void robe",
-            "Elite void top",
-            "Elysian spirit shield",
             "Emberlight",
             "Emerald bolts",
             "Emerald bolts (e)",
@@ -101842,12 +102298,12 @@
                 ]
             }
         ],
-        "savedAt": "2026-03-30T08:33:52.846Z",
+        "savedAt": "2026-03-30T11:25:29.346Z",
         "stats": {
-            "matched": 1047,
-            "accepted": 29,
-            "rejected": 2308,
-            "pending": 700,
+            "matched": 1076,
+            "accepted": 9,
+            "rejected": 2324,
+            "pending": 675,
             "purged": 0
         }
     }

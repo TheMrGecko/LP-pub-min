@@ -13550,20 +13550,10 @@
                     "name": "Sage",
                     "type": "Shop",
                     "level": null,
-                    "difficulty": "low",
+                    "difficulty": "high",
                     "rarity": "Always",
                     "regions": [
-                        "misthalin",
-                        "karamja",
-                        "asgarnia",
-                        "fremennik",
-                        "kandarin",
-                        "desert",
-                        "morytania",
-                        "tirannwn",
-                        "wilderness",
-                        "kourend",
-                        "varlamore"
+                        "kandarin"
                     ]
                 }
             ],
@@ -69365,56 +69355,6 @@
                 "prayer": 1,
                 "weapon": {
                     "tickSpeed": 0,
-                    "specialAttack": false
-                }
-            }
-        },
-        {
-            "id": "Nature's_reprisal",
-            "name": "Nature's reprisal",
-            "slot": "2h",
-            "levelTag": "",
-            "styles": [
-                "Melee",
-                "Range",
-                "Magic"
-            ],
-            "sources": [
-                {
-                    "sourceId": "Drop_Hespori (Echo)_426",
-                    "name": "Hespori (Echo)",
-                    "type": "Drop",
-                    "level": 426,
-                    "difficulty": "Medium",
-                    "rarity": "1/15",
-                    "regions": [
-                        "kourend"
-                    ]
-                }
-            ],
-            "stats": {
-                "attack": {
-                    "stab": 95,
-                    "slash": 0,
-                    "crush": 0,
-                    "magic": 45,
-                    "range": 155
-                },
-                "strength": {
-                    "melee": 103,
-                    "range": 92,
-                    "magic": 12
-                },
-                "defence": {
-                    "stab": 0,
-                    "slash": 0,
-                    "crush": 0,
-                    "magic": 0,
-                    "range": 0
-                },
-                "prayer": 0,
-                "weapon": {
-                    "tickSpeed": 5,
                     "specialAttack": false
                 }
             }
